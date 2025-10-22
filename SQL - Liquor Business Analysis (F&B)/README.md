@@ -39,12 +39,12 @@ It’s built around operational data from a multi-store liquor group, featuring 
 | 17 | Rolling 28-Day Average Sales        | Smooth demand trends for forecasting            |
 
 ## Business Insights Generated
-- Revenue & profit trends by outlet, product, and category
-- Supplier lead times and purchase fill-rate KPIs
-- Churn detection for wholesale and on-premise customers
-- Margin leakage and low-profit SKU identification
-- Pricing consistency and branch-level spread analysis
-- Rolling sales metrics for forecasting and planning
+- Revenue & profit trends by outlet, product, and category.
+- Supplier lead times and purchase fill-rate KPIs.
+- Churn detection for wholesale and on-premise customers.
+- Margin leakage and low-profit SKU identification.
+- Pricing consistency and branch-level spread analysis.
+- Rolling sales metrics for forecasting and planning.
 
 ## Tech Stack
 - Database: Microsoft SQL Server 2022
