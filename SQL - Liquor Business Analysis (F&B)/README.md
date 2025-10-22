@@ -37,3 +37,22 @@ It’s built around operational data from a multi-store liquor group, featuring 
 | 9  | Product Profitability League        | Rank products by profit and margin contribution |
 | 13 | Transfer Flow Between Outlets       | Visualize inter-store stock movement            |
 | 17 | Rolling 28-Day Average Sales        | Smooth demand trends for forecasting            |
+
+## Business Insights Generated
+- Revenue & profit trends by outlet, product, and category
+- Supplier lead times and purchase fill-rate KPIs
+- Churn detection for wholesale and on-premise customers
+- Margin leakage and low-profit SKU identification
+- Pricing consistency and branch-level spread analysis
+- Rolling sales metrics for forecasting and planning
+
+## Tech Stack
+- Database: Microsoft SQL Server 2022
+- Language: T-SQL
+- Tools: SQL Server Management Studio (SSMS), Power BI, Excel
+- Data Volume: ~500K sales rows, 12 outlets, 90+ suppliers
+
+## Author
+Frank Dinh
+Retail & Wholesale Data Analyst (Melbourne, Australia)
+Focused on retail data automation, forecasting, and Power BI dashboarding.
