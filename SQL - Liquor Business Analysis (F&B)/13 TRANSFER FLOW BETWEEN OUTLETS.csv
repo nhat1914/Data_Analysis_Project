@@ -1,0 +1,63 @@
+﻿sender_outlet,receiver_outlet,transfers,units_transferred,transfer_value_est
+Thirsty Camel Braybrook,Liquor West,33,16711,265163485.68
+Bottlemart Lara,Liquor West,31,10950,86317182
+Liquor West,Bottlemart Armstrong Creek,92,-30371,881956.300000002
+Bottlemart Ravenhall,Bottle O Endeavour Hills,30,135,128489.73
+The Bottle-O St Albans,Bottle O Endeavour Hills,2,-56,0
+Thirsty Camel Maribyrnong,Bottle O Endeavour Hills,9,0,0
+Bottlemart Charlemont Rise,Bottlemart Armstrong Creek,1,0,0
+Bottlemart Armstrong Creek,Bottlemart Charlemont Rise,2,0,0
+The Bottle-O St Albans,Bottlemart Lara,2,0,0
+Thirsty Camel Braybrook,Bottlemart Lara,1,0,0
+Bottlemart Armstrong Creek,Bottlemart Lara,36,0,0
+Bottlemart Charlemont Rise,Bottlemart Lara,1,0,0
+Bottle O Endeavour Hills,Bottlemart Ravenhall,1,0,0
+The Bottle-O St Albans,Bottlemart Ravenhall,4,0,0
+Thirsty Camel Braybrook,Bottlemart Ravenhall,1,0,0
+Bottlemart Ravenhall,Harry Brown Ferntree Gully,1,0,0
+Bottlemart Maribyrnong,Liquor West,2,0,0
+Bottle O Endeavour Hills,Liquor West,5,0,0
+Harry Brown Colac,Liquor West,1,0,0
+Bottlemart Charlemont Rise,Liquor West,1,0,0
+Bottlemart Ravenhall,The Bottle-O St Albans,8,0,0
+Bottlemart Ravenhall,Thirsty Camel Braybrook,2,0,0
+Thirsty Camel Maribyrnong,Thirsty Camel Braybrook,6,0,0
+Bottle O Endeavour Hills,Thirsty Camel Maribyrnong,3,-20,0
+Thirsty Camel Maribyrnong,The Bottle-O St Albans,11,-2,-91.08
+NULL,Bottlemart Ravenhall,1,-3,-530.95
+Thirsty Camel Braybrook,Harry Brown Ferntree Gully,4,-27,-1527.9
+Harry Brown Ferntree Gully,Thirsty Camel Braybrook,2,-12,-8820.24
+Bottlemart Lara,Bottlemart Armstrong Creek,47,-133,-12384
+Thirsty Camel Maribyrnong,Bottlemart Ravenhall,47,-58,-12891.75
+Thirsty Camel Maribyrnong,Liquor West,9,-84,-22387.2
+Bottlemart Lara,Bottlemart Charlemont Rise,6,-440,-95690.06
+The Bottle-O St Albans,Thirsty Camel Maribyrnong,22,-242,-105908
+Thirsty Camel Braybrook,Thirsty Camel Maribyrnong,18,-240,-108480
+Bottlemart Ravenhall,Bottlemart Maribyrnong,2,-330,-120361.2
+Bottlemart Lara,Harry Brown Colac,2,-605,-144240.77
+Bottlemart Ravenhall,Thirsty Camel Maribyrnong,100,-1201,-196127.1
+Harry Brown Ferntree Gully,Harry Brown Braybrook,1,-669,-242086.57
+The Bottle-O St Albans,Harry Brown Braybrook,4,-678,-266620.68
+The Bottle-O St Albans,Thirsty Camel Braybrook,121,-1493,-271861.77
+The Bottle-O St Albans,Harry Brown Ferntree Gully,17,-1224,-404074.51
+Harry Brown Braybrook,The Bottle-O St Albans,9,-618,-425717.4
+NULL,Armstrong Creek,1,-624,-454272
+Bottlemart Armstrong Creek,Liquor West,2,-300,-657480
+Harry Brown Ferntree Gully,The Bottle-O St Albans,26,-2808,-998181.68
+NULL,Thirsty Camel Braybrook,6,-1838,-1566765.57
+Liquor West,Harry Brown Braybrook,4,-3075,-2789821.7
+Liquor West,Bottlemart Maribyrnong,6,-6950,-4169992.04
+Thirsty Camel Braybrook,The Bottle-O St Albans,163,-6105,-4218321.05
+Liquor West,Bottlemart Ravenhall,217,-14712,-5166084.68
+Liquor West,Bottlemart Charlemont Rise,13,-31370,-22646324.86
+Liquor West,Bottle O Endeavour Hills,164,-38465,-24423226.49
+Liquor West,Thirsty Camel Maribyrnong,180,-59021,-34220163.59
+The Bottle-O St Albans,Liquor West,52,-6180,-38136417.06
+Liquor West,Thirsty Camel Braybrook,162,-40515,-40111151.71
+Liquor West,Harry Brown Ferntree Gully,86,-56430,-40690791.07
+NULL,1. HO Liquor West - Wholesale,6,-2172,-49803780.6
+Liquor West,Bottlemart Lara,171,-109191,-107220877.22
+Bottlemart Ravenhall,Liquor West,94,-5063,-117179023.79
+Liquor West,Harry Brown Colac,5,-45164,-166836613.44
+Liquor West,The Bottle-O St Albans,217,-110196,-320476567.91
+Harry Brown Ferntree Gully,Liquor West,60,-75792,-918975266.34
