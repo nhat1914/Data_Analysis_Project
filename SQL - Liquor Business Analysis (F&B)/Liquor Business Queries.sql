@@ -97,7 +97,7 @@ GO
 
 ---------------------------------------------------------------------------------------------
 -- 6. CUSTOMER CHURN CANDIDATES
--- Identifies customers who haven’t purchased in the last 90 days.
+-- Identifies customers who havenâ€™t purchased in the last 90 days.
 ---------------------------------------------------------------------------------------------
 SELECT c.uuid, CONCAT(c.first_name, ' ', c.last_name) AS customer_name, c.customer_group_name
 FROM dbo.customer c
@@ -206,7 +206,7 @@ GO
 
 ---------------------------------------------------------------------------------------------
 -- 12. FILL RATE BY PURCHASE ORDER
--- Summarizes each purchase order’s received quantity and cost.
+-- Summarizes each purchase orderâ€™s received quantity and cost.
 ---------------------------------------------------------------------------------------------
 SELECT
   Order_Number,
@@ -242,7 +242,7 @@ GO
 
 ---------------------------------------------------------------------------------------------
 -- 14. NET TRANSFER POSITION PER OUTLET
--- Calculates each outlet’s total sent vs received stock movement.
+-- Calculates each outletâ€™s total sent vs received stock movement.
 ---------------------------------------------------------------------------------------------
 WITH sent AS (
   SELECT sender AS outlet, SUM(transferred_quantity) AS sent_units
@@ -328,17 +328,18 @@ WITH baskets AS (
   SELECT
     customer_id,
     CAST(timestamp AS DATE) AS d,
-    product_id
+    Product_Name
   FROM dbo.v_sales_clean
   WHERE customer_id IS NOT NULL
-  GROUP BY customer_id, CAST(timestamp AS DATE), product_id
+  GROUP BY customer_id, CAST(timestamp AS DATE), Product_Name
 )
-SELECT a.product_id AS prod_a, b.product_id AS prod_b, COUNT(*) AS together_days
+SELECT a.Product_Name AS prod_a, b.Product_Name AS prod_b, COUNT(*) AS together_days
 FROM baskets a
 JOIN baskets b
   ON a.customer_id = b.customer_id
  AND a.d = b.d
- AND a.product_id < b.product_id
-GROUP BY a.product_id, b.product_id
+ AND a.Product_Name < b.Product_Name
+GROUP BY a.Product_Name, b.Product_Name
 ORDER BY together_days DESC;
+
 GO
