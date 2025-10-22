@@ -40,6 +40,7 @@ It’s built around operational data from a multi-store liquor group, featuring 
 
 ## Business Insights Generated
 - Revenue & profit trends by outlet, product, and category.
+-   Showcased by: [1 MONTHLY SALES BY OUTLET](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/1%20MONTHLY%20SALES%20BY%20OUTLET.csv), [10 WEEKLY TREND BY OUTLET](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/10%20WEEKLY%20TREND%20BY%20OUTLET.csv), [3 CATEGORY PERFORMANCE](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/3%20CATEGORY%20PERFORMANCE.csv), [9 PRODUCT PROFITABILITY LEAGUE](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/9%20PRODUCT%20PROFITABILITY%20LEAGUE%20(YTD).csv)
 - Supplier lead times and purchase fill-rate KPIs.
 - Churn detection for wholesale and on-premise customers.
 - Margin leakage and low-profit SKU identification.
