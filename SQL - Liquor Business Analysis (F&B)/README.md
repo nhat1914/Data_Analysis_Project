@@ -42,7 +42,8 @@ It’s built around operational data from a multi-store liquor group, featuring 
 - Revenue & profit trends by outlet, product, and category.
   - Showcased by: [Monthly Sales by Outlet](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/1%20MONTHLY%20SALES%20BY%20OUTLET.csv), [Weekly Trend by Outlet](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/10%20WEEKLY%20TREND%20BY%20OUTLET.csv), [Category Performance](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/3%20CATEGORY%20PERFORMANCE.csv), [Product Profitability League](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/9%20PRODUCT%20PROFITABILITY%20LEAGUE%20(YTD).csv)
   - Recommendation:
-  - | Focus Area                  | Evidence                                             | Recommendation                                                                          | Expected Impact                      |
+
+| Focus Area                  | Evidence                                             | Recommendation                                                                          | Expected Impact                      |
 | --------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------ |
 | **High-performing outlets** | Charlemont Rise (+12.2%), Ferntree Gully (+8.8%)     | Continue premium assortment strategy; expand RTD and spirits facing.                    | +5–8% incremental sales uplift       |
 | **Underperforming outlets** | St Albans (−4.4%), Ballarat (−2.6%)                  | Review product mix and price competitiveness; introduce local bundle promotions.        | Recover lost sales within 1–2 months |
@@ -50,6 +51,7 @@ It’s built around operational data from a multi-store liquor group, featuring 
 | **Low-margin category**     | Cider margin <10%                                    | Evaluate supplier pricing; consider fewer SKUs or switch to higher-margin local brands. | Margin normalization to ≥15%         |
 | **Top profitable SKUs**     | Great Northern, VB, Smirnoff, Jack Daniels, Hennessy | Secure volume rebates with suppliers; maintain consistent pricing across branches.      | Sustained margin protection          |
 | **Forecasting**             | Weekly trend (file #10) shows stable demand pattern  | Feed last 8 weeks’ weekly data into rolling forecast (SQL query #17).                   | Improved replenishment accuracy      |
+
 
 - Supplier lead times and purchase fill-rate KPIs.
   - Showcased by: [Supplier Lead Time and Receipt Fill Rate](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/11%20SUPPLIER%20LEAD%20TIME%20AND%20RECEIPT%20FILL%20RATE.csv), [Fill Rate by PO](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/12%20FILL%20RATE%20BY%20PURCHASE%20ORDER.csv)
