@@ -42,9 +42,9 @@ It’s built around operational data from a stationery and office supplies busin
 
 | Focus Area              | Evidence                                                         | Recommendation                                                             | Expected Impact              |
 | ----------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------- |
-| Seasonal Category Trend | Furniture sales peaked in Q3 ($55.6 K) before dropping 8 % in Q4 | Adjust inventory ahead of Q2–Q3 peak; reduce stock by 10 % after September | +5 % turnover efficiency     |
-| Category Mix            | Stationery margin 26 %, Furniture 24 %, Office Supplies 22 %     | Prioritize stationery promotions; introduce premium bundles                | +2 ppt overall margin lift   |
-| Regional Growth         | NSW and VIC quarterly profits ↑ 5–6 % QoQ                        | Increase product allocation in top-growth states                           | +7 % sales in growth regions |
+| **Seasonal Category Trend** | Furniture sales peaked in Q3 ($55.6 K) before dropping 8 % in Q4 | Adjust inventory ahead of Q2–Q3 peak; reduce stock by 10 % after September | +5 % turnover efficiency     |
+| **Category Mix**            | Stationery margin 26 %, Furniture 24 %, Office Supplies 22 %     | Prioritize stationery promotions; introduce premium bundles                | +2 ppt overall margin lift   |
+| **Regional Growth**         | NSW and VIC quarterly profits ↑ 5–6 % QoQ                        | Increase product allocation in top-growth states                           | +7 % sales in growth regions |
 
 - Discount Impact on Profitability.
   - Showcased by: [Discount Impact by Category](https://github.com/nhat1914/Data_Analysis_Project/blob/3a36befb6456edee487b7dcd60a00e965dd97992/SQL%20-%20Stationary%20Business%20Analysis%20Office%20Consumables/Discount%20Impact%20by%20Category.csv)
@@ -52,9 +52,9 @@ It’s built around operational data from a stationery and office supplies busin
 
 | Focus Area       | Evidence                                           | Recommended Action                                         | Expected Impact                     |
 | ---------------- | -------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------- |
-| Profit per Order | High Discount = $8.8 avg profit vs $26 no-discount | Cap discounts ≤ 20 %; replace deep cuts with bundle offers | +12 % profit/order                  |
-| Elastic Demand   | Low Discount (+9 % orders, stable profit)          | Run quarterly low-discount events (≤ 15 %)                 | Boost volume without margin erosion |
-| Margin Burn      | Medium–High Discount categories < 10 % margin      | Re-negotiate supplier rebates or discontinue lines         | +40 k $/yr margin recovery          |
+| **Profit per Order** | High Discount = $8.8 avg profit vs $26 no-discount | Cap discounts ≤ 20 %; replace deep cuts with bundle offers | +12 % profit/order                  |
+| **Elastic Demand**   | Low Discount (+9 % orders, stable profit)          | Run quarterly low-discount events (≤ 15 %)                 | Boost volume without margin erosion |
+| **Margin Burn**      | Medium–High Discount categories < 10 % margin      | Re-negotiate supplier rebates or discontinue lines         | +40 k $/yr margin recovery          |
 
 - Category Profit by Customer Segment.
   - Showcased by: [Categories per Segment](https://github.com/nhat1914/Data_Analysis_Project/blob/3a36befb6456edee487b7dcd60a00e965dd97992/SQL%20-%20Stationary%20Business%20Analysis%20Office%20Consumables/Top%202%20Categories%20per%20Segment.csv)
@@ -62,9 +62,9 @@ It’s built around operational data from a stationery and office supplies busin
 
 | Focus Area        | Evidence                            | Recommendation                                     | Expected Impact                    |
 | ----------------- | ----------------------------------- | -------------------------------------------------- | ---------------------------------- |
-| Consumer Segment  | Stationery (46 k $ profit) dominant | Bundle stationery + office supplies for cross-sell | +6 % sales from existing customers |
-| Corporate Segment | Furniture (58 k $ profit) highest   | Offer extended credit or bulk discount contracts   | +10 % B2B retention                |
-| Home Office       | Office Supplies (25 k $ profit) key | Develop subscription restock program               | Steady recurring revenue stream    |
+| **Consumer Segment**  | Stationery (46 k $ profit) dominant | Bundle stationery + office supplies for cross-sell | +6 % sales from existing customers |
+| **Corporate Segment** | Furniture (58 k $ profit) highest   | Offer extended credit or bulk discount contracts   | +10 % B2B retention                |
+| **Home Office**       | Office Supplies (25 k $ profit) key | Develop subscription restock program               | Steady recurring revenue stream    |
 
 - Employee Performance & Profit Contribution.
   - Showcased by: [Profit per Category per Employee](https://github.com/nhat1914/Data_Analysis_Project/blob/3a36befb6456edee487b7dcd60a00e965dd97992/SQL%20-%20Stationary%20Business%20Analysis%20Office%20Consumables/Profit%20per%20Category%20per%20Employee.csv), [Profitability Ratio](https://github.com/nhat1914/Data_Analysis_Project/blob/3a36befb6456edee487b7dcd60a00e965dd97992/SQL%20-%20Stationary%20Business%20Analysis%20Office%20Consumables/Profitability%20Ratio.csv)
@@ -72,9 +72,9 @@ It’s built around operational data from a stationery and office supplies busin
 
 | Focus Area           | Evidence                                      | Recommendation                          | Expected Impact                    |
 | -------------------- | --------------------------------------------- | --------------------------------------- | ---------------------------------- |
-| Top Performer        | Employee 102 Profitability = 0.277            | Use as benchmark for peer coaching      | +8 % team-wide profit gain         |
-| Skill Specialization | Employee 103 → 60 % profit in Office Supplies | Assign to key accounts in same category | Higher conversion rate             |
-| Underperformers      | Ratio < 0.20 across 3 employees               | Provide pricing & upsell training       | +0.03 ppt profit ratio improvement |
+| **Top Performer**        | Employee 102 Profitability = 0.277            | Use as benchmark for peer coaching      | +8 % team-wide profit gain         |
+| **Skill Specialization** | Employee 103 → 60 % profit in Office Supplies | Assign to key accounts in same category | Higher conversion rate             |
+| **Underperformers**      | Ratio < 0.20 across 3 employees               | Provide pricing & upsell training       | +0.03 ppt profit ratio improvement |
 
 - Regional Profit Trend Analysis.
   - Showcased by: [Profit by State and Last 6 Quarters (Pivot)](https://github.com/nhat1914/Data_Analysis_Project/blob/3a36befb6456edee487b7dcd60a00e965dd97992/SQL%20-%20Stationary%20Business%20Analysis%20Office%20Consumables/Profit%20by%20State%20and%20Last%206%20Quarters%20(Pivot).csv)
@@ -82,9 +82,9 @@ It’s built around operational data from a stationery and office supplies busin
 
 | Focus Area     | Evidence               | Recommendation                           | Expected Impact     |
 | -------------- | ---------------------- | ---------------------------------------- | ------------------- |
-| Growth States  | NSW +38 → 53 k $ (6 Q) | Expand distribution to match growth pace | +15 k $/quarter     |
-| Stable Regions | VIC steady 3–4 % QoQ   | Maintain pricing; invest in local ads    | Brand consistency   |
-| Lagging States | SA < 16 k $            | Run targeted B2B promotions              | +10 % profit growth |
+| **Growth States**  | NSW +38 → 53 k $ (6 Q) | Expand distribution to match growth pace | +15 k $/quarter     |
+| **Stable Regions** | VIC steady 3–4 % QoQ   | Maintain pricing; invest in local ads    | Brand consistency   |
+| **Lagging States** | SA < 16 k $            | Run targeted B2B promotions              | +10 % profit growth |
 
 - Profitability Ratios & Sales Efficiency.
   - Showcased by: [Profit Ratio Function & Report](https://github.com/nhat1914/Data_Analysis_Project/blob/3a36befb6456edee487b7dcd60a00e965dd97992/SQL%20-%20Stationary%20Business%20Analysis%20Office%20Consumables/Profit%20per%20Category%20per%20Employee.csv)
@@ -92,9 +92,9 @@ It’s built around operational data from a stationery and office supplies busin
 
 | Focus Area              | Evidence                           | Recommendation                            | Expected Impact           |
 | ----------------------- | ---------------------------------- | ----------------------------------------- | ------------------------- |
-| Avg Profit Ratio = 0.26 | High-performer ≥ 0.27              | Replicate top seller strategies           | +5 % sales uplift         |
-| Low Ratios (< 0.20)     | Price pressure or high discounting | Review discount logic; apply profit floor | Margin stabilization      |
-| Consistent Performers   | 80 % employees stable ± 0.03       | Automate monthly ratio report             | Continuous KPI visibility |
+| **Avg Profit Ratio = 0.26** | High-performer ≥ 0.27              | Replicate top seller strategies           | +5 % sales uplift         |
+| **Low Ratios (< 0.20)**     | Price pressure or high discounting | Review discount logic; apply profit floor | Margin stabilization      |
+| **Consistent Performers**   | 80 % employees stable ± 0.03       | Automate monthly ratio report             | Continuous KPI visibility |
 
 - Employee KPI Procedure.
   - Showcased by: [Stored Procedure – GetEmployeeSalesProfit](https://github.com/nhat1914/Data_Analysis_Project/blob/3a36befb6456edee487b7dcd60a00e965dd97992/SQL%20-%20Stationary%20Business%20Analysis%20Office%20Consumables/Stored%20Procedure%20%E2%80%93%20GetEmployeeSalesProfit.csv)
@@ -102,8 +102,8 @@ It’s built around operational data from a stationery and office supplies busin
  
 | Focus Area     | Evidence                        | Recommendation                          | Expected Impact                |
 | -------------- | ------------------------------- | --------------------------------------- | ------------------------------ |
-| Stable Sales   | Avg monthly sales ≈ $29 k       | Retain sales coverage & focus on upsell | Sustainable performance        |
-| KPI Automation | Procedure output as monthly KPI | Feed into Power BI dashboard            | Real-time performance tracking |
+| **Stable Sales**   | Avg monthly sales ≈ $29 k       | Retain sales coverage & focus on upsell | Sustainable performance        |
+| **KPI Automation** | Procedure output as monthly KPI | Feed into Power BI dashboard            | Real-time performance tracking |
 
 ## Tech Stack
 - Database: Microsoft SQL Server 2022
