@@ -114,6 +114,6 @@ It’s built around operational data from a multi-store liquor group, featuring 
 - Data Volume: ~500K sales rows, 12 outlets, 90+ suppliers
 
 ## Author
-Frank Dinh
-Retail & Wholesale Data Analyst (Melbourne, Australia)
-Focused on retail data automation, forecasting, and Power BI dashboarding.
+- Frank Dinh
+- Retail & Wholesale Data Analyst (Melbourne, Australia)
+- Focused on retail data automation, forecasting, and Power BI dashboarding.
