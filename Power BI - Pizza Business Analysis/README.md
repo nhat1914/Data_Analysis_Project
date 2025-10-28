@@ -73,11 +73,6 @@ The model follows a **star schema** optimized for performance and flexibility.
 - `Ingredient` — derived from ingredient-level mapping.
 - `Time` — extracted from order timestamps.
 
-### Relationships:
-- `Sales[Pizza ID]` → `Pizza[Pizza ID]`
-- `Sales[Order Date]` → `Date[Date]`
-- `Pizza[Ingredient ID]` → `Ingredient[Ingredient ID]`
-
 ### Key DAX Measures:
 ```DAX
 Total Revenue = SUM(Sales[Revenue])
