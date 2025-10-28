@@ -22,7 +22,7 @@ End‑to‑end analytics for a multi‑outlet **Liquor Retail & Wholesale** grou
 ## Data Transformation (Power Query)
 - Consolidate POS exports (sales order lines), purchase orders, inventory on‑hand, transfers.
 - Standardize outlet codes, product/category naming, and supplier names.
-- Derive: Start of Week, Week/Month keys, GP%, Holding Value, Forecast (short horizon, using Sarimax model).
+- Derive: Start of Week, Week/Month keys, GP%, Holding Value, Forecast (short horizon, using Sarimax statistical model).
 - Remove negative revenue, null keys; cap outlier quantities if > P99.9 (investigate rather than drop).
 - Ensure referential integrity to Date, Outlet, Product, Supplier, and Customer dims.
 
@@ -37,7 +37,12 @@ End‑to‑end analytics for a multi‑outlet **Liquor Retail & Wholesale** grou
 - `Costs` (daily cost changes)
 
 **Highlighted Dims**
-- `Date`, `Outlet`, `Product`, `Category`, `Supplier`, `Customer`
+- `Date`
+- `Outlet`
+- `Product`
+- `Category`
+- `Supplier`
+- `Customer`
 
 **Highlighted Measures/Tables (DAX)**
 ```DAX
