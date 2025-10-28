@@ -188,7 +188,7 @@ SELECTCOLUMNS (
 
 ### **Page 3 — Supplier Performance**
 
-<img width="2056" height="1160" alt="image" src="https://github.com/user-attachments/assets/6b1377cf-42fb-4e85-a261-2f51d1104a1d" />
+<img width="2057" height="1161" alt="image" src="https://github.com/user-attachments/assets/ff8abc4c-b7f0-45b3-b8d5-4a2539b138af" />
 
 - **Supplier Breakdown**: PO$, PO Cases, Total Revenue, Profit, Case on hand, Latest Order Date.  
 - **Supplier Summary**: purchase trend by week and **Times Ordered** leaderboard.
