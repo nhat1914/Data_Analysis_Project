@@ -14,11 +14,9 @@ The report integrates sales, product, and ingredient data to present **KPI summa
 **Headline Metrics (2015):**
 - **$817,860** total revenue  
 - **21,350** total orders  
-- **48,620** total pizzas sold  
+- **49,574** total pizzas sold  
 - **$38.31** average order value  
 - **2.32** average pizzas per order  
-
----
 
 ## Project Goals
 The project aims to:
@@ -29,8 +27,6 @@ The project aims to:
 5. Assess size and price relationships with demand.
 6. Detect anomalies and uncover drivers of sales spikes or dips.
 7. Provide actionable recommendations for growth, efficiency, and margin protection.
-
----
 
 ## Data Transformation (Power Query)
 All data cleaning and shaping were performed within Power BI using **Power Query (M language)**.
@@ -65,8 +61,6 @@ in
 - Ensured date and time were properly typed for temporal analysis.
 - Validated field definitions per `data_dictionary.xlsx`.
 
----
-
 ## Data Modelling
 The model follows a **star schema** optimized for performance and flexibility.
 
@@ -98,8 +92,6 @@ Quantity by Category = SUMX(RELATEDTABLE(Pizza), Sales[Quantity])
 
 <img width="1831" height="954" alt="Pizza Business Data Modelling and Table Relationship" src="https://github.com/user-attachments/assets/0b5e1b56-7935-44c3-8287-df899c0875f9" />
 
----
-
 ## Dashboard Overview
 
 ### Page 1 — **Business Overview**
@@ -126,9 +118,7 @@ Quantity by Category = SUMX(RELATEDTABLE(Pizza), Sales[Quantity])
 ### Filters:
 - Date range, Pizza Category, Size, Ingredient, and Time of Day.
 
----
-
-## Key Insights (from report)
+## Key Insights
 **Performance Summary**
 - Friday, Thursday, and Saturday were the top three revenue days.
 - Revenue peaked at **lunch (12–1pm)** and **dinner (5–7pm)**.
@@ -151,8 +141,6 @@ Quantity by Category = SUMX(RELATEDTABLE(Pizza), Sales[Quantity])
 - Promote family bundles on Sunday–Monday to fill low-demand days.
 - Launch time-specific campaigns: Lunch Combos (12–14h) and Family Bundles (17–20h).
 - Pre-plan promotions for holidays (Thanksgiving, Black Friday, Independence Day).
-
----
 
 ## Recommendations
 1. **Revenue Growth:**
