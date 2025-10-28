@@ -188,7 +188,7 @@ SELECTCOLUMNS (
 
 ### **Page 3 — Supplier Performance**
 
-<img width="2057" height="1161" alt="image" src="https://github.com/user-attachments/assets/ff8abc4c-b7f0-45b3-b8d5-4a2539b138af" />
+<img width="2053" height="1158" alt="image" src="https://github.com/user-attachments/assets/ea235c38-35ff-4927-9316-2ac6e3f670a5" />
 
 - **Supplier Breakdown**: PO$, PO Cases, Total Revenue, Profit, Case on hand, Latest Order Date.  
 - **Supplier Summary**: purchase trend by week and **Times Ordered** leaderboard.
@@ -198,7 +198,7 @@ SELECTCOLUMNS (
 
 ### **Page 4 — Customer & Channel**
 
-<img width="2056" height="1160" alt="image" src="https://github.com/user-attachments/assets/fa52f6ab-03b4-465d-b727-81f7d3f3b885" />
+<img width="2056" height="1161" alt="image" src="https://github.com/user-attachments/assets/3121398e-e1a0-4a4f-8ab7-1b3b9fc2bdb3" />
 
 - **Customer Purchasing Power** (weekly revenue by account).  
 - **Revenue by Customer Group** (W2W, W2R, Retail, Restaurant, etc).  
@@ -209,7 +209,7 @@ SELECTCOLUMNS (
 
 ### **Page 5 — Revenue Mix & Product Performance**
 
-<img width="2056" height="1161" alt="image" src="https://github.com/user-attachments/assets/fb7ab673-cb51-4cef-a869-00b04af7244e" />
+<img width="2059" height="1161" alt="image" src="https://github.com/user-attachments/assets/84ae322d-b532-4fa4-88c6-40dd82b89992" />
 
 - **Revenue per Category** by week.  
 - **Revenue per Customer Group** drill.  
