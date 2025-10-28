@@ -131,6 +131,9 @@ Avg Amount by Type = AVERAGEX(VALUES('TransactionType'[Type]), [Total Amount])
 The report ships with **two main pages** and drill-throughs:
 
 ### 1) Overview
+
+<img width="1399" height="830" alt="image" src="https://github.com/user-attachments/assets/3b7161f5-bc69-4800-a3e5-3d1d73c7190f" />
+
 - **KPI tiles:** Total Amount, Total Transactions, Unique Customers, Utilization Rate
 - **Trend visuals:** Monthly transaction count & amount; daily intraday curve by state
 - **Comparatives:** Average transaction amount by state & type; utilization by state
@@ -143,6 +146,9 @@ The report ships with **two main pages** and drill-throughs:
 - Intraday: Lagos remains active after 7pm; other states taper earlier.
 
 ### 2) Demography
+
+<img width="1273" height="829" alt="image" src="https://github.com/user-attachments/assets/d251598f-290d-4582-82ed-3c3b28349552" />
+
 - **Composition:** Transaction distribution by type
 - **Segments:** Count by age group × type; frequency by age group
 - **Durations:** State × type matrix for average duration
