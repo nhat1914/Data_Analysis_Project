@@ -125,6 +125,8 @@ Avg Amount by Type = AVERAGEX(VALUES('TransactionType'[Type]), [Total Amount])
 
 > Note: Adjust utilization formula to the bank’s operational definition (e.g., share of active hours vs. capacity).
 
+<img width="1640" height="930" alt="image" src="https://github.com/user-attachments/assets/75cff223-ac8f-4300-b7d4-db03bbde2d2d" />
+
 ## Dashboard Overview
 The report ships with **two main pages** and drill-throughs:
 
