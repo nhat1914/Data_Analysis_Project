@@ -3,7 +3,7 @@
 ## Overview
 End‑to‑end analytics for a multi‑outlet **Liquor Retail & Wholesale** group, integrating **Sales**, **Purchasing**, **Inventory**, **Transfers**, **Supplier**, and **Customer** views. This README documents the model, transformations, measures, and an **8‑page dashboard** layout with key insights and usage notes.
 
-## [Dashboard Interactive Link](https://app.powerbi.com/view?r=eyJrIjoiMDE5MDBiMGEtMDVjYi00NjY5LWIyNTMtNTMzOWZhNGViODYyIiwidCI6IjYxYTI3ZWZiLTM2ZjMtNDY1Zi04NWRmLWUyMWFlZGMxM2MwNCJ9)
+[Dashboard Interactive Link](https://app.powerbi.com/view?r=eyJrIjoiMDE5MDBiMGEtMDVjYi00NjY5LWIyNTMtNTMzOWZhNGViODYyIiwidCI6IjYxYTI3ZWZiLTM2ZjMtNDY1Zi04NWRmLWUyMWFlZGMxM2MwNCJ9)
 
 **Primary KPIs (snapshot Aug–Oct 2025):**
 - **$13,327,412** Revenue
