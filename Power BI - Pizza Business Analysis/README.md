@@ -5,7 +5,7 @@ This Power BI project analyzes a full year of pizza manufacturing and distributi
 
 The report integrates sales, product, and ingredient data to present **KPI summaries**, **time-based trends**, **menu performance**, and **ingredient-level insights** — ultimately guiding strategic decisions in pricing, inventory, and promotions.
 
-## [Dashboard Interactive Link](https://app.powerbi.com/view?r=eyJrIjoiNjI1NjA3M2MtNDA1Ny00ZDk1LWIyZTEtZWM0MDc4MmU4ODVkIiwidCI6IjYxYTI3ZWZiLTM2ZjMtNDY1Zi04NWRmLWUyMWFlZGMxM2MwNCJ9)
+[Dashboard Interactive Link](https://app.powerbi.com/view?r=eyJrIjoiNjI1NjA3M2MtNDA1Ny00ZDk1LWIyZTEtZWM0MDc4MmU4ODVkIiwidCI6IjYxYTI3ZWZiLTM2ZjMtNDY1Zi04NWRmLWUyMWFlZGMxM2MwNCJ9)
 
 **Period:** January 1 – December 31, 2015  
 **Dataset:** `data_pizza.xlsx` (supported by `data_dictionary.xlsx`)  
