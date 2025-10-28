@@ -101,21 +101,25 @@ Quantity by Category = SUMX(RELATEDTABLE(Pizza), Sales[Quantity])
 ## Dashboard Overview
 
 ### Page 1 — **Business Overview**
+
+<img width="2147" height="1202" alt="image" src="https://github.com/user-attachments/assets/c2d7a03e-767d-4ffd-be1b-09efb67da1cb" />
+
 - **KPI Cards:** Total Revenue, Orders, Quantity Sold, Avg Order Value, Avg Pizzas/Order.
 - **Trend Charts:** Monthly revenue and quantity trends.
 - **Weekly Analysis:** Revenue by day of week.
 - **Hourly Heatmap:** Order concentration across dayparts (Lunch vs Dinner).
+- **Size Performance:** Relationship between size and sales volume.
+- **Single vs Multi-Item Orders:** ratio chart and frequency gauge.
 
-### Page 2 — **Product and Category Analysis**
+### Page 2 — **Product, Category, Correlation and Pricing Analysis**
+
+<img width="2144" height="1186" alt="image" src="https://github.com/user-attachments/assets/03e304f1-cdd0-406c-86cc-a4fd9674ee68" />
+
 - **Top 5 / Bottom 5 Pizzas:** by revenue and quantity.
 - **Category Ranking:** Classic, Supreme, Chicken, Veggie.
-- **Size Performance:** Relationship between size and sales volume.
 - **Ingredient Analysis:** Most/least used ingredients across categories.
-
-### Page 3 — **Correlation & Pricing Insights**
 - **Revenue vs Quantity Scatter:** with average reference lines dividing four quadrants.
 - **Price vs Demand:** trend line shows strong inverse correlation between price and sales.
-- **Single vs Multi-Item Orders:** ratio chart and frequency gauge.
 
 ### Filters:
 - Date range, Pizza Category, Size, Ingredient, and Time of Day.
