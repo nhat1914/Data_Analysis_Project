@@ -178,12 +178,6 @@ The report ships with **two main pages** and drill-throughs:
 - Migrate **balance/transfer** traffic toward online & phone banking with incentives and onboarding.
 - Align maintenance to **low-activity windows**; ensure peak-time availability by branch.
 
-## How to Use
-1. Open `Wisabi Bank.pbix` in Power BI Desktop.
-2. Refresh data connections or replace with your SQL extracts.
-3. Publish to Power BI Service, configure scheduled refresh via on-premises gateway.
-4. Share workspaces with stakeholders, enable row-level security if applicable.
-
 ## Future Enhancements
 - SLA uptime by ATM with incident logs
 - Customer lifetime value and cross-channel migration tracking
