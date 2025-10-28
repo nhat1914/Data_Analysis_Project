@@ -96,6 +96,8 @@ Revenue by Category = SUMX(RELATEDTABLE(Pizza), Sales[Revenue])
 Quantity by Category = SUMX(RELATEDTABLE(Pizza), Sales[Quantity])
 ```
 
+<img width="1831" height="954" alt="Pizza Business Data Modelling and Table Relationship" src="https://github.com/user-attachments/assets/0b5e1b56-7935-44c3-8287-df899c0875f9" />
+
 ---
 
 ## Dashboard Overview
