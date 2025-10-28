@@ -2,7 +2,9 @@
 
 ## Overview
 This Power BI project analyzes Wisabi Bank’s 2022 ATM transactions to uncover customer behavior, location performance, and operational improvement opportunities. It distills more than 2.1M transactions into executive KPIs and interactive visuals that support branch managers, ATM operations, and head-office strategy.
-  
+
+[Dashboard Interactive Link](https://app.powerbi.com/view?r=eyJrIjoiYzZjMGRmODEtYTQyYS00NmQwLTk0MGUtMjRhYmU1MzkyZjA1IiwidCI6IjYxYTI3ZWZiLTM2ZjMtNDY1Zi04NWRmLWUyMWFlZGMxM2MwNCJ9)
+
 **Timeframe:** January–December 2022  
 **Core KPIs (from the report):**
 - **₦38,555,885,000** total amount processed
