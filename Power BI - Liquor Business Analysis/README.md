@@ -212,7 +212,7 @@ SELECTCOLUMNS (
 <img width="2059" height="1161" alt="image" src="https://github.com/user-attachments/assets/84ae322d-b532-4fa4-88c6-40dd82b89992" />
 
 - **Revenue per Category** by week.  
-- **Revenue per Customer Group** drill.  
+- **Total Cases Sold Trend per Product** drill.  
 - **Product Performance**: Revenue, Cases, Profit, Orders, Case on hand, **Forecast Next 2 Weeks**, Holding Value.
 
 **Usage**
@@ -223,7 +223,7 @@ SELECTCOLUMNS (
 <img width="2059" height="1161" alt="image" src="https://github.com/user-attachments/assets/48731a39-fe15-4a06-a014-79884fa689f8" />
 
 - **Basket Details**: Avg Case/Order, Avg Order Value, median/min/max cases per order.  
-- **Selling Order by Weekday & Hour** heatmap (staffing windows).  
+- **Selling Order by Weekday & Hour** heatmap.  
 - **Product Selling Frequency** and **Price Elasticity** (Cases vs Price/Case).
 
 **Takeaways**
