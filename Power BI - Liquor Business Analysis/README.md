@@ -63,7 +63,7 @@ VAR TransfersLW =
         "CostPerCase",  [CostPerCase]
     )
 
--- Store Orders for Liquor West (last 8 weeks)
+-- Store Orders for LW (last 8 weeks)
 VAR OrdersLW =
     SELECTCOLUMNS (
         ADDCOLUMNS (
