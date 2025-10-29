@@ -735,31 +735,57 @@ print(f"\nBest ARIMA order: {best_order} with the lowest Mean Absolute Error (MA
 Output
 
 ARIMA(0, 0, 0). Mean Absolute Error (MAE)=207.464
+
 ARIMA(0, 0, 1). Mean Absolute Error (MAE)=139.459
+
 ARIMA(0, 0, 2). Mean Absolute Error (MAE)=110.945
+
 ARIMA(0, 1, 0). Mean Absolute Error (MAE)=57.658
+
 ARIMA(0, 1, 1). Mean Absolute Error (MAE)=55.131
+
 ARIMA(0, 1, 2). Mean Absolute Error (MAE)=55.178
+
 ARIMA(0, 2, 0). Mean Absolute Error (MAE)=96.911
+
 ARIMA(0, 2, 1). Mean Absolute Error (MAE)=57.663
+
 ARIMA(0, 2, 2). Mean Absolute Error (MAE)=55.121
+
 ARIMA(1, 0, 0). Mean Absolute Error (MAE)=67.270
+
 ARIMA(1, 0, 1). Mean Absolute Error (MAE)=55.013
+
 ARIMA(1, 0, 2). Mean Absolute Error (MAE)=55.069
+
 ARIMA(1, 1, 0). Mean Absolute Error (MAE)=53.238
+
 ARIMA(1, 1, 1). Mean Absolute Error (MAE)=55.178
+
 ARIMA(1, 1, 2). Mean Absolute Error (MAE)=55.131
+
 ARIMA(1, 2, 0). Mean Absolute Error (MAE)=78.169
+
 ARIMA(1, 2, 1). Mean Absolute Error (MAE)=53.247
+
 ARIMA(1, 2, 2). Mean Absolute Error (MAE)=55.271
+
 ARIMA(2, 0, 0). Mean Absolute Error (MAE)=56.080
+
 ARIMA(2, 0, 1). Mean Absolute Error (MAE)=55.070
+
 ARIMA(2, 0, 2). Mean Absolute Error (MAE)=55.009
+
 ARIMA(2, 1, 0). Mean Absolute Error (MAE)=50.288
+
 ARIMA(2, 1, 1). Mean Absolute Error (MAE)=55.263
+
 ARIMA(2, 1, 2). Mean Absolute Error (MAE)=55.243
+
 ARIMA(2, 2, 0). Mean Absolute Error (MAE)=66.714
+
 ARIMA(2, 2, 1). Mean Absolute Error (MAE)=50.296
+
 ARIMA(2, 2, 2). Mean Absolute Error (MAE)=55.316
 
 Best ARIMA order: (2, 1, 0) with the lowest Mean Absolute Error (MAE)=50.288
