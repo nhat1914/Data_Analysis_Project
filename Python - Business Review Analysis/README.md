@@ -5,10 +5,7 @@ This project integrates data wrangling, visualization, sentiment analysis, and r
 
 ## Project Overview
 
-The **Meta Business Analysis** project demonstrates how large-scale public review data can be transformed into actionable insights.  
-It showcases the **full data science pipeline** — from raw data ingestion to forecasting and recommendation generation.
-This project exemplifies the **complete data-science pipeline** — from ingestion and processing to advanced analytics, forecasting, and recommendation.  
-It highlights practical skills in **data engineering, data analysis, NLP, visualization, and predictive modeling**, bridging the gap between data and actionable business intelligence.
+The **Meta Business Analysis** project demonstrates how large-scale public review data can be transformed into actionable insights. It showcases the **full data science pipeline** — from raw data ingestion to forecasting and recommendation generation. This project exemplifies the **complete data-science pipeline** — from ingestion and processing to advanced analytics, forecasting, and recommendation. It highlights practical skills in **data engineering, data analysis, NLP, visualization, and predictive modeling**, bridging the gap between data and actionable business intelligence.
 
 **Goal:** To analyse online business reviews, extract customer insights, forecast engagement trends, and build data-driven recommendation systems.
 
