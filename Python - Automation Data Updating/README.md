@@ -101,14 +101,14 @@ Next run scheduled at: 2025-10-29 14:50:21
 Waiting for next run...
 ```
 
-## ⚠️ Notes & Recommendations
+## Notes & Recommendations
 
 - Do not keep target CSV or Excel files open during script execution — it will cause **PermissionError**.  
 - Always maintain consistent **column headers** across datasets.  
 - Ensure Gmail IMAP is enabled under *Settings → Forwarding and POP/IMAP → Enable IMAP*.
 - The script can be run 24/7 on a background server or Raspberry Pi.
 
-## 👤 Author
+## Author
 
 **Author:** [Frank Dinh]  
 **Email:** [dinh.qnhat@gmail.com]  
