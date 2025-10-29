@@ -28,7 +28,7 @@ To eliminate manual downloads and file merges by creating an **automated pipelin
 | **`store order.csv`** | Store-level order data received from outlet managers. | `AAA - Store Order` | `product_id`, `product name`, `quantity ordered`, `timestamp`, `store_name` *(optional)* |
 | **`LW Qty On Hand.xlsx`** | Warehouse and store on-hand stock quantities. Replaces existing file with the latest upload. | `AAA - WH qty on hand` | `Product Name`, `Product ID`, `Outlet`, `Case Quantity`, `On Hand`, `Last Updated` |
 | **`All products.xlsx`** | Product master list including names, categories, and tags. Automatically appended or updated. | `AAA - All products` | `Product Name`, `Category`, `Tags`, `Details` |
-| **`skipped_files_log.txt`** *(optional)* | Log file for any attachments skipped due to missing headers or file lock. | — | `filename`, `reason`, `timestamp` |
+| **`skipped_files_log.txt`** | Log file for any attachments skipped due to missing headers or file lock. | — | `filename`, `reason`, `timestamp` |
 
 > The script depends on **correct subject prefixes** and **consistent column headers** for all attachments.  
 > CSVs are **appended**, while Excel files (`.xlsx`) are either **updated** or **replaced** depending on the subject.  
