@@ -87,7 +87,7 @@ To eliminate manual downloads and file merges by creating an **automated pipelin
 | `AAA - WH qty on hand` | `LW Qty On Hand.xlsx` | Replace existing with new data |
 | `AAA - All products` | `All products.xlsx` | Update or add new products |
 
-## 🧾 Example Console Output
+## Example Console Output
 
 ```
 Connecting to imap.gmail.com:993...
