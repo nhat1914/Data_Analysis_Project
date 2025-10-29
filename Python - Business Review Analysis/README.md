@@ -7,6 +7,8 @@ This project integrates data wrangling, visualization, sentiment analysis, and r
 
 The **Meta Business Analysis** project demonstrates how large-scale public review data can be transformed into actionable insights.  
 It showcases the **full data science pipeline** — from raw data ingestion to forecasting and recommendation generation.
+This project exemplifies the **complete data-science pipeline** — from ingestion and processing to advanced analytics, forecasting, and recommendation.  
+It highlights practical skills in **data engineering, data analysis, NLP, visualization, and predictive modeling**, bridging the gap between data and actionable business intelligence.
 
 **Goal:** To analyse online business reviews, extract customer insights, forecast engagement trends, and build data-driven recommendation systems.
 
@@ -253,11 +255,13 @@ It showcases the **full data science pipeline** — from raw data ingestion to f
 - Identified **peak engagement hours** (afternoon/evening) and **weekday trends**.
 
 <img width="855" height="547" alt="image" src="https://github.com/user-attachments/assets/74aaa0e7-1fc8-45ad-a3da-4602e11a6190" />
+
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/c4e876b9-93af-4ac9-9001-2a8b58231fa6" />
 
 - Determined **top-reviewed businesses**.
 
 <img width="776" height="509" alt="image" src="https://github.com/user-attachments/assets/f8c47798-cb58-4d56-b599-ff6a75f48103" />
+
 <img width="1071" height="701" alt="image" src="https://github.com/user-attachments/assets/741baac6-ab39-49e3-9474-23a9aa372ada" />
 
 ## Natural Language Processing
@@ -288,16 +292,7 @@ A **hybrid recommendation engine** combining two strategies:
 1. **Content-based Filtering** – ranks categories a user rates highly  
 2. **Collaborative Filtering (KNN)** – finds similar users by rating pattern  
 
-**Workflow Summary:**
-1. Profile user top categories (≥ 3 reviews each).  
-2. Build user–category rating matrix.  
-3. Identify similar users via cosine similarity (KNN).  
-4. Recommend top 5 new businesses each month (season-aware).
-
-**_📸 Placeholder for image:_**  
-> `![Recommendation Workflow](images/recommendation_system_flow.png)`
-
-```
+```python
 # Preprocess
 # Work on a copy dataframe to avoid mutating the original dataframe
 df_strategy = join_df_pandas.copy()
@@ -572,10 +567,80 @@ def recommend_monthly_top5(user_id, k_neighbours=100, min_overlap=5, min_user_to
 
   # Return business recommendation
   return output
+
+# Example
+target_user =(df_strategy.groupby("user_id")["gmap_id"].count().sort_values(ascending=False).index[0])
+recs = recommend_monthly_top5(target_user, k_neighbours=100, min_overlap=5, min_user_total_reviews=10, min_reviews_per_business_from_neighbours=5)
+print(f"User id: {target_user}")
+display(recs)
+
 ```
 
-`![Monthly Top 5 Output Table](images/monthly_recommendations.png)`
+Output
 
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>month</th>
+      <th>gmap_id</th>
+      <th>business_name</th>
+      <th>avg_rating</th>
+      <th>n_reviews</th>
+      <th>category_list</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>01</td>
+      <td>0x56c897c75e18110b:0xe8108663de7cc854</td>
+      <td>Century 16 and XD</td>
+      <td>4.83</td>
+      <td>6</td>
+      <td>Movie theater,Snack bar</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>01</td>
+      <td>0x56c897dbdc7efa33:0x8ccaf4b10d744ba3</td>
+      <td>Bear Tooth Theatrepub</td>
+      <td>4.71</td>
+      <td>7</td>
+      <td>Pizza restaurant,Bar,Burrito restaurant,Movie ...</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>01</td>
+      <td>0x56c89428a884f819:0xf19121669c0db372</td>
+      <td>Red Robin Gourmet Burgers and Brews</td>
+      <td>4.14</td>
+      <td>7</td>
+      <td>Restaurant,American restaurant,Hamburger resta...</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>01</td>
+      <td>0x56c8962a9e9e05e5:0x11e8716048cc833a</td>
+      <td>Delaney Park</td>
+      <td>4.00</td>
+      <td>5</td>
+      <td>Park,Athletic field,Memorial park,Recreation,T...</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>01</td>
+      <td>0x56c899d0184538f9:0xfcf4420cda19d613</td>
+      <td>Walmart Supercenter</td>
+      <td>4.00</td>
+      <td>5</td>
+      <td>Department store,Clothing store,Craft store,Di...</td>
+    </tr>
+  </tbody>
+</table>
+
+Running a recommendation list for the example user with id 1.0188830200557922e+20. According to the example result, the recommend_monthly_top5 function takes the target user id (target_user), 100 neighbours to pull from KNN (k_neighbors = 100), 5 minimum numbers of the target user's top categories a neighbours must also have rated (min_overlap =5), 10 total reviews a neighbour must have made (min_user_total_reviews = 10), and 5 minimum number of reviews a business must have (min_reviews_per_business_from_neighbours=5) as input. After processing, the function returns a list of the top 5 recommended businesses to visit to the target user for each month, along with the average ratings and number of ratings of the business. This list is extracted based on the calculated top 10 categories the target user might be interested in, then a list of all the neighbours that have similar tastes as the target users, and lastly a list of the top places that the derived neighbours have rated average, high and eager to rate for each month.
+The list lists out, for instance, in January, the top 5 businesses the target user should visit, including Century 16 and XD, Bear Tooth Theatrepub, Red Robin Gourmet Burgers and Brews, Delaney Park, and Walmart Supercenter. Their average ratings are 4.83, 4.71, 4.14, 4.00, and 4.00, respectively. The number of ratings that other similar neighbours have made is 6, 7, 7, 5, 5, respectively. There is a month, such as April, that does not show 5 businesses and only shows 2, indicating that only 2 businesses have satisfied all the conditions.
 
 ## Time Series Forecasting
 
@@ -585,11 +650,90 @@ def recommend_monthly_top5(user_id, k_neighbours=100, min_overlap=5, min_user_to
 - Conducted grid search on **ARIMA(p,d,q)** models → best = (2, 1, 0).  
 - Achieved lowest MAE = **50.29**, showing solid short-term forecasting accuracy.  
 
-**_📸 Placeholder for image:_**  
-> `![ARIMA Decomposition Plot](images/arima_decomposition.png)`  
-> `![Forecast Plot](images/review_forecast_plot.png)`
+<img width="630" height="494" alt="image" src="https://github.com/user-attachments/assets/59224c32-6cd9-411c-8555-a42bd29c435c" />
 
----
+```python
+# Convert the time series to a NumPy array of float64
+X = daily_filled.values.astype("float64")
+# Split the train and test set with the proportion of 80% - 20%, respectively
+split = int(len(X)*0.8)
+train,test = X[:split], X[split:]
+
+# Build all 27 combinations for p, d, q to try
+orders = list(itertools.product([0,1,2],[0,1,2],[0,1,2]))
+
+def measure_mae(order):
+    """
+    The function take an order for p,d,q to try.
+    Fit an ARIMA model on the train set, then produce predictions using the test set.
+    Returns mean absolute error (MAE) of the predictions, and predicted values array.
+    """
+    # Instantiate the p,d,q to the list of 27 combinations
+    p,d,q = order
+    # Ignore all Convergence or Invertibility warnings during the gird search
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        # Build an Arima model on the train set.
+        mod = ARIMA(train,
+                    order=order,
+                    trend=('n' if d>0 else 'c'),  # drop intercept if differenced to avoid redundancy
+                    enforce_stationarity=False,   # allow non-stationary params if needed
+                    enforce_invertibility=False)  # allow non-invertible params if needed
+
+        try:
+          # Try to fit the Arima model while passing optimiser options via method_kwargs
+          fitted_mod = mod.fit(method_kwargs={"warn_convergence": False, "maxiter": 50})
+        except TypeError:
+          # Otherwise, fit the model using the default optimiser option
+          fitted_mod = mod.fit()
+
+        if hasattr(fitted_mod, "append"):
+          # Check whether statsmodels has append() function
+          fitted_mod_ext = fitted_mod.append(test, refit=False) # Extend the fitted model by incorporating test set
+          # Predict the results for the test set
+          pred = fitted_mod_ext.get_prediction(start=split, end=split+len(test)-1, dynamic=False)
+          # Extract the mean forcasts
+          yhat = np.asarray(pred.predicted_mean)
+        else:
+          # Otherwise, fall back to walk-forward forecast
+          hist = list(train) # Instantiate hist with a list of train value
+          # Instantiate an empty prediciton results list
+          preds = []
+          for t in range(len(test)):
+            # Fit an Arima model on all data up to t
+            m = ARIMA(hist, order=order, trend=('n' if d>0 else 'c'),
+                        enforce_stationarity=False, enforce_invertibility=False)
+            try:
+                fitted_m = m.fit(method_kwargs={"warn_convergence": False, "maxiter": 50})
+            except TypeError:
+                fitted_m = m.fit()
+            # Forcast the next point
+            preds.append(float(fitted_m.forecast(steps=1)[0]))
+            # Append the true test observation to hist before the next loop
+            hist.append(float(test[t]))
+          # Append the predicted result to the preds list
+          yhat = np.array(preds)
+    # Calculate the mean absolute error for the test set
+    mae = mean_absolute_error(test, yhat)
+    # Returns mean absolute error value, and predicted values array.
+    return mae, yhat
+
+# Perform grid search over all combinations of p,d,q
+results = []
+best_order, best_mae, best_forecast = None, np.inf, None
+
+# Loop over each combination and print out an Arima model with its p,d,q combination and its mean absolute error value.
+for order in orders:
+    mae, yhat = measure_mae(order)
+    results.append((order, mae))
+    if mae < best_mae:
+        best_order, best_mae, best_forecast = order, mae, yhat
+    print(f"ARIMA{order}. Mean Absolute Error (MAE)={mae:.3f}")
+
+# Print out the best Arima order and its MAE value
+print(f"\nBest ARIMA order: {best_order} with the lowest Mean Absolute Error (MAE)={best_mae:.3f}")
+
+```
 
 ## Deep Learning Outlook
 
@@ -599,9 +743,6 @@ Outlined the conceptual roadmap to extend forecasting via **LSTM / GRU networks*
 - Model with recurrent layers + dropout  
 - Optimized with Adam or RMSProp  
 - Early stopping on validation loss  
-
-**_📸 Placeholder for image:_**  
-> `![LSTM Architecture Diagram](images/lstm_architecture.png)`
 
 ## Key Insights
 
@@ -614,33 +755,12 @@ Outlined the conceptual roadmap to extend forecasting via **LSTM / GRU networks*
 | **Predictive Power** | ARIMA(2,1,0) accurately captures weekly cyclicality. |
 | **Recommendation Value** | Combines user taste + similar user ratings for personalized monthly picks. |
 
-## Project Structure
-
-```
-Meta_Business_Analysis/
-│
-├── Meta_Business_Analysis.ipynb          # Main notebook
-├── meta-review-business.csv              # Business metadata
-├── review.csv                            # Review dataset
-├── Comprehensive Meta Business Analysis.pdf  # Full report & visuals
-├── images/                               # [Add screenshots & charts here]
-└── README.md                             # Project documentation
-```
-
 ## Author
 
 **Author:** [Frank Dinh, Mia Pham, Shaun Nguyen]  
 **Email:** [dinh.qnhat@gmail.com]  
 **Year:** 2025  
-**Affiliation:** Independent Data Science Project  
+**Affiliation:** Collaboration Data Science Project  
 
 > © 2025 All Rights Reserved.  
 > Unauthorized reuse, redistribution, or upload of the datasets is prohibited.
-
-## 🏁 Conclusion
-
-This project exemplifies the **complete data-science pipeline** — from ingestion and processing to advanced analytics, forecasting, and recommendation.  
-It highlights practical skills in **data engineering, NLP, visualization, and predictive modeling**, bridging the gap between data and actionable business intelligence.
-
-**_📸 Placeholder for final dashboard or summary visual:_**  
-> `![Project Dashboard Summary](images/final_dashboard.png)`
