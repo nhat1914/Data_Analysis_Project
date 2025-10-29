@@ -14,6 +14,20 @@ To build a **robust and automated forecasting script** capable of:
 - Comparing their forecast accuracy (MAE, MAPE)
 - Exporting predictions and diagnostics for operational decision-making
 
+### Data Source
+
+| File | Description | Required Columns |
+|------|--------------|------------------|
+| **`sales from 1st DEC.csv`** | Main transactional sales dataset exported from the POS system (Shopfront). | `product_id`, `product name`, `case_quantity`, `quantity sold`, `timestamp` |
+| **`LW & Store Onhand - With Case Quantity Sources.xlsx`** | Excel dataset containing store-level on-hand and case quantity information (header starts from row 2). | `product_id`, `product name`, `case_quantity`, `quantity sold`, `timestamp` |
+| **`All products.xlsx`** | Product reference master file for product names and metadata. | `product_id`, `name` *(or `product name`)* |
+| **Outputs** | Auto-generated forecast results and logs. | — |
+
+> These columns are required for the script `predict_stock.py` to execute successfully.  
+> - The column names **must match exactly** (case-sensitive).  
+> - `timestamp` must be in either `dd/mm/yyyy` or `yyyy/mm/dd` format.  
+> - Both CSV and Excel sources are automatically combined and cleaned before forecasting.
+
 ### Workflow Summary
 
 1. **Data Integration**
