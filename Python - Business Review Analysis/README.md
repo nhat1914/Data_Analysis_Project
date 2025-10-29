@@ -241,7 +241,7 @@ The **Meta Business Analysis** project demonstrates how large-scale public revie
 
 ## Exploratory Analysis
 
-- Visualised **distribution of ratings** and **hourly review counts**.
+- Visualised **total number of reviews** and **hourly review counts**.
 
 <img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/7f83453d-6a8d-43b6-8ecf-4b94ecbc94ba" />
 
