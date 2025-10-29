@@ -297,7 +297,7 @@ A **hybrid recommendation engine** combining two strategies:
 **_📸 Placeholder for image:_**  
 > `![Recommendation Workflow](images/recommendation_system_flow.png)`
 
-` # Preprocess
+```# Preprocess
   # Work on a copy dataframe to avoid mutating the original dataframe
   df_strategy = join_df_pandas.copy()
   
@@ -570,7 +570,7 @@ A **hybrid recommendation engine** combining two strategies:
     output["avg_rating"] = output["avg_rating"].round(2)
   
     # Return business recommendation
-    return output`
+    return output```
 
 > `![Monthly Top 5 Output Table](images/monthly_recommendations.png)`
 
