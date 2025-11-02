@@ -70,6 +70,8 @@ While augmentation improved recall for minority classes, it decreased precision 
 
 <img width="572" height="590" alt="image" src="https://github.com/user-attachments/assets/ffaddf18-01fd-4955-adef-ae80ad9ecd37" />
 
+<img width="572" height="590" alt="image" src="https://github.com/user-attachments/assets/8b2f51d9-1d9b-4a0d-85db-78bc21c3212f" />
+
 ### 3️⃣ Model Capacity — *SmallCNN vs WiderCNN*
 
 | Model | Parameters | Accuracy | Macro Precision | Macro Recall | Macro F1 |
@@ -82,6 +84,8 @@ While augmentation improved recall for minority classes, it decreased precision 
 <img width="590" height="290" alt="image" src="https://github.com/user-attachments/assets/14fd62e3-4dd2-424b-b41a-f5a368120af7" />
 
 <img width="572" height="590" alt="image" src="https://github.com/user-attachments/assets/1433351f-ccd9-40fd-a5b3-ee50fb08f5d1" />
+
+<img width="572" height="590" alt="image" src="https://github.com/user-attachments/assets/57f13f93-6f2d-47d2-9605-68dad0c83c2a" />
 
 ### 4️⃣ Targeted Augmentation Refinement
 
@@ -98,10 +102,11 @@ Targeted augmentation increased macro-F1 by **16.6%**, reducing bias across emot
 
 <img width="981" height="290" alt="image" src="https://github.com/user-attachments/assets/8690b20e-80d9-4fa4-80b9-411177945401" />
 
-Before
+**Before Refinement**
+
 <img width="869" height="611" alt="image" src="https://github.com/user-attachments/assets/8ebe5f8d-f962-41af-a3d8-aca79350f1c5" />
 
-After
+**After Refinement**
 <img width="869" height="598" alt="image" src="https://github.com/user-attachments/assets/ad74897e-7a2a-4118-b7b8-67a47f59b5bb" />
 
 ### 5️⃣ Cross-Domain Generalisation
@@ -117,8 +122,6 @@ Evaluated model performance on a new dataset with different lighting and demogra
 Few-shot fine-tuning improved macro F1 by ~10%, proving that limited adaptation can recover domain performance under severe shift.
 
 <img width="989" height="290" alt="image" src="https://github.com/user-attachments/assets/28be0d6c-aaab-496e-aec7-a75f7ac5311e" />
-
-<img width="591" height="586" alt="image" src="https://github.com/user-attachments/assets/333e4065-63ca-480e-b650-45a3a3b2694f" />
 
 <img width="869" height="650" alt="image" src="https://github.com/user-attachments/assets/6339e179-d198-48d4-b524-b62af3f0dcfa" />
 
