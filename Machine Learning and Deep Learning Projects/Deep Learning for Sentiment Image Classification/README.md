@@ -50,6 +50,10 @@ The baseline performance barely exceeds random chance (≈16.7%), suggesting ins
 
 <img width="1055" height="221" alt="image" src="https://github.com/user-attachments/assets/b5a51954-2e3d-4a75-9db8-592a8ffc4387" />
 
+<img width="1080" height="221" alt="image" src="https://github.com/user-attachments/assets/54c9ca8a-d492-49f0-a573-92734eaefcd6" />
+
+<img width="1080" height="221" alt="image" src="https://github.com/user-attachments/assets/e6ae6f67-f1b9-4d0d-9a27-df45baeabe8d" />
+
 ### 2️⃣ Data Augmentation — *Standard Policy*
 
 Augmentations: random resized crop, flip, small rotation (±10°), mild brightness/contrast jitter.  
@@ -62,6 +66,10 @@ All else constant between augmented and non-augmented runs.
 
 While augmentation improved recall for minority classes, it decreased precision and overall F1, indicating the need to fine-tune augmentation strength.
 
+<img width="998" height="290" alt="image" src="https://github.com/user-attachments/assets/eb7758f8-b28a-4a5e-8c65-17e89dea948f" />
+
+<img width="572" height="590" alt="image" src="https://github.com/user-attachments/assets/ffaddf18-01fd-4955-adef-ae80ad9ecd37" />
+
 ### 3️⃣ Model Capacity — *SmallCNN vs WiderCNN*
 
 | Model | Parameters | Accuracy | Macro Precision | Macro Recall | Macro F1 |
@@ -70,6 +78,10 @@ While augmentation improved recall for minority classes, it decreased precision 
 | WiderCNN | 764K | **0.2197** | **0.2023** | **0.2161** | **0.1585** |
 
 **Observation:** WiderCNN outperformed SmallCNN in macro metrics (+0.025 F1), validating moderate capacity scaling for small datasets.
+
+<img width="590" height="290" alt="image" src="https://github.com/user-attachments/assets/14fd62e3-4dd2-424b-b41a-f5a368120af7" />
+
+<img width="572" height="590" alt="image" src="https://github.com/user-attachments/assets/1433351f-ccd9-40fd-a5b3-ee50fb08f5d1" />
 
 ### 4️⃣ Targeted Augmentation Refinement
 
@@ -83,6 +95,14 @@ After error analysis (e.g., *Sad ↔ Fear*, *Pain ↔ Anger* confusions), graysc
 | Macro F1 | 0.1272 | **0.1483** |
 
 Targeted augmentation increased macro-F1 by **16.6%**, reducing bias across emotional classes.
+
+<img width="981" height="290" alt="image" src="https://github.com/user-attachments/assets/8690b20e-80d9-4fa4-80b9-411177945401" />
+
+Before
+<img width="869" height="611" alt="image" src="https://github.com/user-attachments/assets/8ebe5f8d-f962-41af-a3d8-aca79350f1c5" />
+
+After
+<img width="869" height="598" alt="image" src="https://github.com/user-attachments/assets/ad74897e-7a2a-4118-b7b8-67a47f59b5bb" />
 
 ### 5️⃣ Cross-Domain Generalisation
 
