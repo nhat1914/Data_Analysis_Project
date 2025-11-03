@@ -91,7 +91,7 @@ Quantity by Category = SUMX(RELATEDTABLE(Pizza), Sales[Quantity])
 
 ### Page 1 — **Business Overview**
 
-<img width="2147" height="1202" alt="image" src="https://github.com/user-attachments/assets/c2d7a03e-767d-4ffd-be1b-09efb67da1cb" />
+<img width="1281" height="725" alt="image" src="https://github.com/user-attachments/assets/7fa91e0a-f374-424b-960d-1d9fb24d0475" />
 
 - **KPI Cards:** Total Revenue, Orders, Quantity Sold, Avg Order Value, Avg Pizzas/Order.
 - **Trend Charts:** Monthly revenue and quantity trends.
@@ -102,7 +102,7 @@ Quantity by Category = SUMX(RELATEDTABLE(Pizza), Sales[Quantity])
 
 ### Page 2 — **Product, Category, Correlation and Pricing Analysis**
 
-<img width="2144" height="1186" alt="image" src="https://github.com/user-attachments/assets/03e304f1-cdd0-406c-86cc-a4fd9674ee68" />
+<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/f5c38b62-dbd3-4cc0-ace9-a59771ee0050" />
 
 - **Top 5 / Bottom 5 Pizzas:** by revenue and quantity.
 - **Category Ranking:** Classic, Supreme, Chicken, Veggie.
