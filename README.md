@@ -13,11 +13,11 @@ A series of professional Power BI dashboards built to visualise and interpret op
 - Comprehensive performance dashboard for multi-store liquor retail operations.  
 - Metrics include revenue trends, store ranking, supplier performance, and category contribution.  
 
-### 🔹 [Power BI – Pizza Business Analysis](https://github.com/nhat1914/Data_Analysis_Project/tree/30842b841af56bfa8d04cf9e9cbd05a550a1e081/Power%20BI%20-%20Pizza%20Business%20Analysis)
+### 🔹 [Power BI – Pizza Business Analysis](https://github.com/nhat1914/Data_Analysis_Project/tree/de3de5d439d03735cae332d3fbcea81838abb7ff/Power%20BI%20-%20Pizza%20Business%20Analysis)
 - Visual dashboard for a fast-food franchise analysing order trends, top products, and customer patterns.  
 - Includes profit margins, delivery time KPIs, and regional comparison visuals.  
 
-### 🔹 [Power BI – Wisabi Bank Analysis](https://github.com/nhat1914/Data_Analysis_Project/tree/30842b841af56bfa8d04cf9e9cbd05a550a1e081/Power%20BI%20-%20Wisabi%20Bank%20Analysis)
+### 🔹 [Power BI – Wisabi Bank Analysis](https://github.com/nhat1914/Data_Analysis_Project/tree/de3de5d439d03735cae332d3fbcea81838abb7ff/Power%20BI%20-%20Wisabi%20Bank%20Analysis)
 - Financial and customer analytics report for a simulated banking dataset.  
 - KPIs include deposit growth, loan performance, and customer churn trends.  
 
