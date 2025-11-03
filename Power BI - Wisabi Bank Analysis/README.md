@@ -1,4 +1,4 @@
-# Wisabi Bank — ATM Transactions Analysis (Power BI)
+f# Wisabi Bank — ATM Transactions Analysis (Power BI)
 
 ## Overview
 This Power BI project analyzes Wisabi Bank’s 2022 ATM transactions to uncover customer behavior, location performance, and operational improvement opportunities. It distills more than 2.1M transactions into executive KPIs and interactive visuals that support branch managers, ATM operations, and head-office strategy.
