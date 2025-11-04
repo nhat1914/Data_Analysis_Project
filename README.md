@@ -9,7 +9,7 @@ Each project demonstrates hands-on experience in building real-world analytical 
 
 A series of professional Power BI dashboards built to visualise and interpret operational performance, sales insights, and customer behaviour across industries.
 
-### 🔹 [Power BI – Liquor Business Analysis]((./Power%20BI%20-%20Liquor%20Business%20Analysis))
+### 🔹 [Power BI – Liquor Business Analysis](./Power%20BI%20-%20Liquor%20Business%20Analysis)
 - Comprehensive performance dashboard for multi-store liquor retail operations.  
 - Metrics include revenue trends, store ranking, supplier performance, and category contribution.  
 
