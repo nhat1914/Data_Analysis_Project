@@ -1,0 +1,17 @@
+﻿ship_mode,REGION,avg_lead_days,lines
+Same Day,East,0,157
+Same Day,South,0,75
+Same Day,West,0,162
+Same Day,Central,0,149
+First Class,East,2,456
+First Class,South,2,236
+First Class,Central,2,322
+First Class,West,2,524
+Second Class,East,3,555
+Second Class,South,3,303
+Second Class,Central,3,456
+Second Class,West,3,631
+Standard Class,East,4,1594
+Standard Class,South,4,1012
+Standard Class,West,5,1918
+Standard Class,Central,5,1444

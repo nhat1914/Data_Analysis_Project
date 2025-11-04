@@ -1,0 +1,794 @@
+﻿customer_id,customer_name,SEGMENT,orders,first_order,last_order,days_since_last
+CC-12430,Chuck Clark,Home Office,10,2015-09-06,2017-12-30,2866
+EB-13975,Erica Bern,Corporate,4,2016-01-04,2017-12-30,2866
+JM-15580,Jill Matthias,Consumer,5,2016-04-14,2017-12-30,2866
+PO-18865,Patrick O'Donnell,Consumer,7,2014-03-23,2017-12-30,2866
+KB-16600,Ken Brennan,Corporate,7,2014-12-30,2017-12-29,2867
+JG-15160,James Galang,Consumer,11,2014-05-30,2017-12-29,2867
+KH-16360,Katherine Hughes,Consumer,6,2014-04-29,2017-12-29,2867
+MC-17845,Michael Chen,Consumer,7,2014-07-05,2017-12-29,2867
+BS-11755,Bruce Stewart,Consumer,7,2014-05-18,2017-12-29,2867
+BP-11185,Ben Peterman,Corporate,9,2015-03-24,2017-12-29,2867
+EH-14005,Erica Hernandez,Home Office,7,2014-05-13,2017-12-28,2868
+CS-12400,Christopher Schild,Home Office,9,2014-09-26,2017-12-28,2868
+LO-17170,Lori Olson,Corporate,5,2015-02-06,2017-12-28,2868
+KH-16690,Kristen Hastings,Corporate,7,2014-03-21,2017-12-28,2868
+JG-15310,Jason Gross,Corporate,6,2016-03-03,2017-12-28,2868
+JF-15415,Jennifer Ferguson,Consumer,6,2014-06-17,2017-12-28,2868
+GH-14665,Greg Hansen,Consumer,2,2015-11-17,2017-12-28,2868
+HM-14860,Harry Marie,Corporate,10,2014-07-21,2017-12-28,2868
+PC-18745,Pamela Coakley,Corporate,4,2014-12-31,2017-12-28,2868
+SV-20935,Susan Vittorini,Consumer,8,2016-03-19,2017-12-28,2868
+DR-12880,Dan Reichenbach,Corporate,9,2015-09-25,2017-12-27,2869
+KB-16240,Karen Bern,Corporate,7,2014-03-31,2017-12-26,2870
+TC-21535,Tracy Collins,Home Office,7,2014-11-03,2017-12-26,2870
+YC-21895,Yoseph Carroll,Corporate,5,2014-11-17,2017-12-26,2870
+PO-18850,Patrick O'Brill,Consumer,11,2014-11-02,2017-12-26,2870
+RA-19285,Ralph Arnett,Consumer,9,2014-12-13,2017-12-25,2871
+JW-15955,Joni Wasserman,Consumer,7,2015-08-16,2017-12-25,2871
+JH-15430,Jennifer Halladay,Consumer,4,2014-02-24,2017-12-25,2871
+FH-14365,Fred Hopkins,Corporate,8,2014-10-20,2017-12-25,2871
+GA-14725,Guy Armstrong,Consumer,11,2014-02-11,2017-12-25,2871
+GD-14590,Giulietta Dortch,Corporate,4,2014-05-05,2017-12-25,2871
+MH-18115,Mick Hernandez,Home Office,9,2016-08-23,2017-12-25,2871
+CV-12805,Cynthia Voltz,Corporate,9,2016-05-09,2017-12-25,2871
+CS-12355,Christine Sundaresam,Consumer,11,2014-08-15,2017-12-24,2872
+DP-13105,Dave Poirier,Corporate,8,2015-08-22,2017-12-24,2872
+AC-10615,Ann Chong,Corporate,5,2015-09-15,2017-12-24,2872
+AH-10210,Alan Hwang,Consumer,9,2014-11-29,2017-12-24,2872
+AR-10540,Andy Reiter,Consumer,6,2014-11-25,2017-12-24,2872
+NC-18535,Nick Crebassa,Corporate,7,2014-07-23,2017-12-24,2872
+HG-15025,Hunter Glantz,Consumer,7,2014-10-14,2017-12-24,2872
+JL-15175,James Lanier,Home Office,5,2014-12-31,2017-12-24,2872
+NS-18505,Neola Schneider,Consumer,4,2016-11-24,2017-12-24,2872
+RF-19840,Roy FranzÃ¶sisch,Consumer,8,2014-11-12,2017-12-24,2872
+RM-19675,Robert Marley,Home Office,5,2014-11-14,2017-12-24,2872
+JB-15400,Jennifer Braxton,Corporate,10,2014-09-14,2017-12-23,2873
+JB-16045,Julia Barnett,Home Office,5,2015-05-03,2017-12-23,2873
+FM-14215,Filia McAdams,Corporate,10,2014-03-11,2017-12-23,2873
+GZ-14470,Gary Zandusky,Consumer,9,2014-08-05,2017-12-23,2873
+MM-17920,Michael Moore,Consumer,11,2014-01-13,2017-12-23,2873
+MF-18250,Monica Federle,Corporate,5,2014-09-15,2017-12-23,2873
+DK-12985,Darren Koutras,Consumer,5,2014-11-24,2017-12-23,2873
+CM-12115,Chad McGuire,Consumer,4,2015-03-29,2017-12-22,2874
+CM-12190,Charlotte Melton,Consumer,6,2015-09-18,2017-12-22,2874
+AG-10330,Alex Grayson,Consumer,5,2016-08-03,2017-12-22,2874
+JL-15130,Jack Lebron,Consumer,6,2014-07-18,2017-12-22,2874
+JM-15655,Jim Mitchum,Corporate,5,2014-04-08,2017-12-22,2874
+JP-15520,Jeremy Pistek,Consumer,7,2014-08-22,2017-12-22,2874
+SG-20080,Sandra Glassco,Consumer,3,2015-10-31,2017-12-22,2874
+SK-19990,Sally Knutson,Consumer,3,2016-11-28,2017-12-22,2874
+TP-21130,Theone Pippenger,Consumer,9,2015-04-14,2017-12-22,2874
+SR-20425,Sharelle Roach,Home Office,5,2014-06-14,2017-12-22,2874
+YS-21880,Yana Sorensen,Corporate,8,2015-01-12,2017-12-21,2875
+SE-20110,Sanjit Engle,Consumer,11,2014-04-11,2017-12-21,2875
+PK-19075,Pete Kriz,Consumer,12,2014-11-11,2017-12-21,2875
+RB-19465,Rick Bensley,Home Office,12,2014-03-14,2017-12-21,2875
+LP-17095,Liz Preis,Consumer,7,2016-06-06,2017-12-21,2875
+BN-11515,Bradley Nguyen,Consumer,5,2014-03-17,2017-12-21,2875
+BD-11635,Brian Derr,Consumer,3,2014-10-05,2017-12-21,2875
+DB-13210,Dean Braden,Consumer,10,2015-03-22,2017-12-21,2875
+DK-13150,David Kendrick,Corporate,2,2014-12-05,2017-12-20,2876
+DK-13225,Dean Katz,Corporate,9,2014-03-14,2017-12-20,2876
+AC-10450,Amy Cox,Consumer,7,2014-10-31,2017-12-19,2877
+TS-21505,Tony Sayre,Consumer,6,2014-12-20,2017-12-19,2877
+TT-21460,Tonja Turnell,Home Office,7,2015-12-08,2017-12-18,2878
+RA-19915,Russell Applegate,Consumer,9,2014-06-30,2017-12-18,2878
+AH-10030,Aaron Hawkins,Corporate,7,2014-04-22,2017-12-18,2878
+BP-11290,Beth Paige,Consumer,7,2014-10-03,2017-12-18,2878
+EP-13915,Emily Phan,Consumer,17,2014-07-06,2017-12-18,2878
+DJ-13630,Doug Jacobs,Consumer,3,2015-12-14,2017-12-18,2878
+DB-13660,Duane Benoit,Consumer,7,2014-06-17,2017-12-18,2878
+HE-14800,Harold Engle,Corporate,4,2016-01-30,2017-12-18,2878
+HR-14770,Hallie Redmond,Home Office,5,2014-03-01,2017-12-17,2879
+GB-14575,Giulietta Baptist,Consumer,5,2015-06-12,2017-12-17,2879
+LC-17140,Logan Currie,Consumer,9,2014-09-09,2017-12-17,2879
+CA-12310,Christine Abelman,Corporate,4,2014-07-19,2017-12-17,2879
+AI-10855,Arianne Irving,Consumer,10,2014-04-28,2017-12-17,2879
+AT-10735,Annie Thurman,Consumer,10,2014-08-30,2017-12-17,2879
+VF-21715,Vicky Freymann,Home Office,5,2014-03-01,2017-12-17,2879
+RD-19810,Ross DeVincentis,Home Office,8,2014-10-27,2017-12-16,2880
+AY-10555,Andy Yotov,Corporate,4,2014-04-06,2017-12-16,2880
+AR-10510,Andrew Roberts,Consumer,5,2014-05-02,2017-12-16,2880
+KM-16225,Kalyca Meade,Corporate,6,2015-07-06,2017-12-16,2880
+KM-16660,Khloe Miller,Consumer,5,2014-12-22,2017-12-15,2881
+PL-18925,Paul Lucas,Home Office,5,2014-11-01,2017-12-15,2881
+SS-20140,Saphhira Shifley,Corporate,8,2014-11-23,2017-12-15,2881
+LC-16885,Lena Creighton,Consumer,12,2014-04-25,2017-12-14,2882
+KL-16555,Kelly Lampkin,Corporate,8,2014-06-15,2017-12-14,2882
+MP-18175,Mike Pelletier,Home Office,9,2014-03-28,2017-12-14,2882
+GM-14455,Gary Mitchum,Home Office,6,2014-04-11,2017-12-14,2882
+BF-11170,Ben Ferrer,Home Office,11,2014-04-13,2017-12-14,2882
+DB-13060,Dave Brooks,Consumer,7,2014-03-01,2017-12-14,2882
+BP-11095,Bart Pistole,Corporate,12,2014-06-07,2017-12-13,2883
+MW-18220,Mitch Webber,Consumer,7,2014-08-25,2017-12-13,2883
+MV-18190,Mike Vittorini,Consumer,7,2014-01-30,2017-12-11,2885
+NB-18655,Nona Balk,Corporate,9,2014-12-05,2017-12-11,2885
+KN-16390,Katherine Nockton,Corporate,9,2014-12-02,2017-12-11,2885
+AS-10285,Alejandro Savely,Corporate,6,2016-05-21,2017-12-11,2885
+AA-10375,Allen Armold,Consumer,9,2014-04-21,2017-12-11,2885
+DK-13375,Dennis Kane,Consumer,8,2014-09-07,2017-12-11,2885
+DV-13045,Darrin Van Huff,Corporate,5,2016-06-12,2017-12-11,2885
+RB-19435,Richard Bierner,Consumer,8,2014-03-11,2017-12-11,2885
+RR-19315,Ralph Ritter,Consumer,2,2016-11-14,2017-12-11,2885
+RS-19870,Roy Skaria,Home Office,2,2016-06-07,2017-12-11,2885
+SU-20665,Stephanie Ulpright,Home Office,7,2015-12-05,2017-12-10,2886
+WB-21850,William Brown,Consumer,11,2014-11-04,2017-12-10,2886
+AW-10840,Anthony Witt,Consumer,4,2015-04-13,2017-12-10,2886
+BT-11680,Brian Thompson,Consumer,7,2014-11-28,2017-12-10,2886
+CC-12220,Chris Cortes,Consumer,12,2014-09-09,2017-12-10,2886
+LS-16975,Lindsay Shagiari,Home Office,9,2014-10-20,2017-12-10,2886
+HA-14920,Helen Andreada,Consumer,8,2014-10-11,2017-12-10,2886
+JE-16165,Justin Ellison,Corporate,3,2016-12-05,2017-12-10,2886
+JL-15835,John Lee,Consumer,11,2014-04-18,2017-12-09,2887
+HF-14995,Herbert Flentye,Consumer,7,2014-05-26,2017-12-09,2887
+LE-16810,Laurel Elliston,Consumer,6,2014-05-27,2017-12-09,2887
+LH-16900,Lena Hernandez,Consumer,9,2014-08-19,2017-12-09,2887
+LW-17215,Luke Weiss,Consumer,7,2014-09-12,2017-12-09,2887
+AT-10435,Alyssa Tate,Home Office,6,2014-11-24,2017-12-09,2887
+AH-10585,Angele Hood,Consumer,4,2014-10-26,2017-12-09,2887
+DB-12910,Daniel Byrd,Home Office,8,2014-10-24,2017-12-09,2887
+DK-12835,Damala Kotsonis,Corporate,12,2014-03-26,2017-12-09,2887
+RD-19720,Roger Demir,Consumer,10,2014-07-20,2017-12-09,2887
+CW-11905,Carl Weiss,Home Office,6,2014-06-09,2017-12-08,2888
+DL-13315,Delfina Latchford,Consumer,8,2014-01-16,2017-12-08,2888
+DM-13345,Denise Monton,Corporate,8,2014-11-03,2017-12-08,2888
+EG-13900,Emily Grady,Consumer,5,2015-11-02,2017-12-08,2888
+AS-10225,Alan Schoenberger,Corporate,5,2014-10-18,2017-12-08,2888
+LF-17185,Luke Foster,Consumer,7,2014-07-26,2017-12-08,2888
+KH-16510,Keith Herrera,Consumer,7,2014-08-15,2017-12-08,2888
+MJ-17740,Max Jones,Consumer,7,2015-06-09,2017-12-08,2888
+HG-14965,Henry Goldwyn,Corporate,12,2014-09-20,2017-12-07,2889
+FP-14320,Frank Preis,Consumer,8,2014-12-07,2017-12-07,2889
+BH-11710,Brosina Hoffman,Consumer,8,2014-06-09,2017-12-07,2889
+DS-13180,David Smith,Corporate,9,2014-04-28,2017-12-07,2889
+DC-13285,Debra Catini,Consumer,5,2014-12-29,2017-12-07,2889
+SH-20395,Shahid Hopkins,Consumer,10,2014-11-02,2017-12-07,2889
+BN-11470,Brad Norvell,Corporate,4,2014-09-12,2017-12-06,2890
+BF-11080,Bart Folk,Consumer,3,2014-11-28,2017-12-05,2891
+AB-10165,Alan Barnes,Consumer,8,2014-11-16,2017-12-05,2891
+CS-11950,Carlos Soltero,Consumer,11,2014-06-08,2017-12-05,2891
+SM-20950,Suzanne McNair,Corporate,12,2014-09-29,2017-12-05,2891
+RB-19570,Rob Beeghly,Consumer,5,2016-04-28,2017-12-05,2891
+QJ-19255,Quincy Jones,Corporate,9,2014-03-17,2017-12-05,2891
+NP-18325,Naresj Patel,Consumer,6,2014-05-13,2017-12-05,2891
+PB-18805,Patrick Bzostek,Home Office,3,2015-11-20,2017-12-05,2891
+CM-12160,Charles McCrossin,Consumer,6,2016-10-21,2017-12-04,2892
+CS-12250,Chris Selesnick,Corporate,12,2014-01-13,2017-12-04,2892
+DO-13645,Doug O'Connell,Consumer,7,2015-11-07,2017-12-04,2892
+CB-12415,Christy Brittain,Consumer,8,2015-11-05,2017-12-04,2892
+MS-17980,Michael Stewart,Corporate,6,2014-06-30,2017-12-04,2892
+KE-16420,Katrina Edelman,Corporate,8,2014-04-03,2017-12-04,2892
+LT-16765,Larry Tron,Consumer,3,2014-09-01,2017-12-04,2892
+LR-16915,Lena Radford,Consumer,6,2014-08-08,2017-12-04,2892
+MC-17575,Matt Collins,Consumer,8,2014-12-02,2017-12-03,2893
+LC-16870,Lena Cacioppo,Consumer,8,2015-05-03,2017-12-03,2893
+MV-17485,Mark Van Huff,Consumer,9,2014-01-20,2017-12-03,2893
+ND-18370,Natalie DeCherney,Consumer,9,2014-01-13,2017-12-03,2893
+CC-12550,Clay Cheatham,Consumer,3,2017-06-15,2017-12-03,2893
+CS-12460,Chuck Sachs,Consumer,2,2017-07-03,2017-12-03,2893
+CM-12655,Corinna Mitchell,Home Office,6,2015-03-19,2017-12-03,2893
+TC-21295,Toby Carlisle,Consumer,8,2014-10-14,2017-12-03,2893
+VW-21775,Victoria Wilson,Corporate,10,2014-05-11,2017-12-02,2894
+RP-19855,Roy Phan,Corporate,8,2014-04-05,2017-12-02,2894
+ES-14080,Erin Smith,Corporate,9,2014-10-02,2017-12-02,2894
+BS-11380,Bill Stewart,Corporate,5,2014-11-29,2017-12-02,2894
+BG-11035,Barry Gonzalez,Consumer,8,2014-11-05,2017-12-02,2894
+AS-10090,Adam Shillingsburg,Consumer,9,2014-09-22,2017-12-02,2894
+BB-11545,Brenda Bowman,Corporate,9,2015-06-05,2017-12-02,2894
+AM-10360,Alice McCarthy,Corporate,5,2014-10-06,2017-12-02,2894
+MK-17905,Michael Kennedy,Corporate,8,2014-11-18,2017-12-02,2894
+ME-17725,Max Engle,Consumer,8,2014-07-12,2017-12-02,2894
+KM-16720,Kunst Miller,Consumer,8,2014-03-30,2017-12-02,2894
+GW-14605,Giulietta Weimer,Consumer,7,2014-03-01,2017-12-02,2894
+JS-16030,Joy Smith,Consumer,6,2014-02-27,2017-12-02,2894
+JK-16090,Juliana Krohn,Consumer,3,2015-04-21,2017-12-02,2894
+JH-15985,Joseph Holt,Consumer,6,2014-08-09,2017-12-01,2895
+MG-17650,Matthew Grinstein,Home Office,7,2014-08-09,2017-12-01,2895
+ML-17755,Max Ludwig,Home Office,7,2016-08-04,2017-12-01,2895
+MY-17380,Maribeth Yedwab,Corporate,7,2015-10-26,2017-12-01,2895
+AD-10180,Alan Dominguez,Home Office,8,2014-11-19,2017-12-01,2895
+CC-12670,Craig Carreira,Consumer,7,2014-12-23,2017-12-01,2895
+DV-13465,Dianna Vittorini,Consumer,6,2014-06-22,2017-12-01,2895
+SO-20335,Sean O'Donnell,Consumer,6,2015-10-11,2017-12-01,2895
+SH-19975,Sally Hughsby,Corporate,13,2014-12-10,2017-12-01,2895
+SJ-20215,Sarah Jordon,Consumer,6,2015-02-09,2017-12-01,2895
+SC-20305,Sean Christensen,Consumer,7,2014-12-16,2017-12-01,2895
+SC-20380,Shahid Collister,Consumer,9,2014-03-01,2017-11-30,2896
+SC-20800,Stuart Calhoun,Consumer,4,2015-12-11,2017-11-30,2896
+PN-18775,Parhena Norris,Home Office,8,2015-08-07,2017-11-30,2896
+VP-21730,Victor Preis,Home Office,3,2015-07-05,2017-11-30,2896
+SW-20275,Scott Williamson,Consumer,6,2014-03-10,2017-11-30,2896
+TB-21625,Trudy Brown,Consumer,9,2014-08-06,2017-11-30,2896
+MZ-17335,Maria Zettner,Home Office,4,2015-11-08,2017-11-30,2896
+HP-14815,Harold Pawlan,Home Office,7,2014-05-06,2017-11-30,2896
+TT-21070,Ted Trevino,Consumer,7,2014-05-18,2017-11-29,2897
+RB-19795,Ross Baird,Home Office,8,2014-06-03,2017-11-28,2898
+RH-19495,Rick Hansen,Consumer,5,2014-08-23,2017-11-28,2898
+DG-13300,Deirdre Greer,Corporate,5,2014-11-01,2017-11-28,2898
+DB-13615,Doug Bickford,Consumer,7,2014-09-30,2017-11-27,2899
+BM-11650,Brian Moss,Corporate,11,2014-07-09,2017-11-27,2899
+BD-11320,Bill Donatelli,Consumer,12,2015-05-31,2017-11-27,2899
+JR-16210,Justin Ritter,Corporate,5,2015-09-18,2017-11-27,2899
+LW-16990,Lindsay Williams,Corporate,6,2016-05-05,2017-11-27,2899
+RP-19390,Resi PÃ¶lking,Consumer,12,2014-05-24,2017-11-27,2899
+LS-17245,Lynn Smith,Consumer,6,2014-10-16,2017-11-26,2900
+LT-17110,Liz Thompson,Consumer,8,2014-06-01,2017-11-26,2900
+MN-17935,Michael Nguyen,Consumer,6,2014-02-16,2017-11-26,2900
+GT-14755,Guy Thornton,Consumer,4,2015-02-18,2017-11-26,2900
+FG-14260,Frank Gastineau,Home Office,7,2014-05-21,2017-11-26,2900
+AH-10075,Adam Hart,Corporate,10,2014-11-16,2017-11-26,2900
+CC-12610,Corey Catlett,Corporate,7,2014-08-27,2017-11-26,2900
+BS-11590,Brendan Sweed,Corporate,6,2014-01-14,2017-11-25,2901
+BD-11500,Bradley Drucker,Consumer,6,2014-02-01,2017-11-25,2901
+EB-13750,Edward Becker,Corporate,10,2015-03-12,2017-11-25,2901
+HZ-14950,Henia Zydlo,Consumer,5,2016-03-14,2017-11-25,2901
+RO-19780,Rose O'Brian,Consumer,7,2015-05-12,2017-11-25,2901
+TZ-21580,Tracy Zic,Consumer,4,2014-11-11,2017-11-25,2901
+SZ-20035,Sam Zeldin,Home Office,11,2014-09-07,2017-11-25,2901
+TS-21370,Todd Sumrall,Corporate,6,2014-10-28,2017-11-24,2902
+RS-19765,Roland Schwarz,Corporate,8,2014-04-07,2017-11-24,2902
+SC-20440,Shaun Chance,Corporate,7,2015-08-17,2017-11-24,2902
+PR-18880,Patrick Ryan,Consumer,5,2014-09-05,2017-11-24,2902
+PG-18820,Patrick Gardner,Consumer,13,2014-05-09,2017-11-24,2902
+FM-14290,Frank Merwin,Home Office,9,2014-08-26,2017-11-24,2902
+GT-14710,Greg Tran,Consumer,11,2014-05-23,2017-11-24,2902
+KA-16525,Kelly Andreada,Consumer,7,2014-03-11,2017-11-24,2902
+MD-17860,Michael Dominguez,Corporate,5,2014-12-02,2017-11-24,2902
+BG-11695,Brooke Gillingham,Corporate,6,2014-05-11,2017-11-24,2902
+DC-12850,Dan Campbell,Consumer,9,2014-07-05,2017-11-23,2903
+CM-12385,Christopher Martinez,Consumer,4,2015-03-16,2017-11-23,2903
+JP-15460,Jennifer Patt,Corporate,7,2014-08-24,2017-11-23,2903
+JM-15250,Janet Martin,Consumer,6,2016-03-29,2017-11-23,2903
+JM-15265,Janet Molinari,Corporate,5,2014-08-25,2017-11-23,2903
+FH-14275,Frank Hawley,Corporate,10,2014-04-06,2017-11-23,2903
+TD-20995,Tamara Dahlen,Consumer,9,2014-05-19,2017-11-23,2903
+FO-14305,Frank Olsen,Consumer,10,2014-06-09,2017-11-22,2904
+CK-12205,Chloris Kastensmidt,Consumer,13,2014-03-11,2017-11-21,2905
+BF-11005,Barry Franz,Home Office,4,2014-09-25,2017-11-21,2905
+BP-11230,Benjamin Patterson,Consumer,5,2014-04-20,2017-11-21,2905
+CC-12475,Cindy Chapman,Consumer,9,2014-05-16,2017-11-21,2905
+PJ-18835,Patrick Jones,Corporate,8,2014-05-28,2017-11-21,2905
+SC-20050,Sample Company A,Home Office,9,2014-03-18,2017-11-20,2906
+CD-11920,Carlos Daly,Consumer,5,2014-03-24,2017-11-20,2906
+ES-14020,Erica Smith,Consumer,5,2014-09-20,2017-11-20,2906
+LP-17080,Liz Pelletier,Consumer,4,2014-06-24,2017-11-20,2906
+KH-16330,Katharine Harms,Corporate,8,2014-04-01,2017-11-20,2906
+LC-16930,Linda Cazamias,Corporate,8,2014-02-20,2017-11-19,2907
+KD-16345,Katherine Ducich,Consumer,6,2014-09-02,2017-11-19,2907
+MC-18100,Mick Crebagga,Consumer,10,2014-06-18,2017-11-19,2907
+NC-18415,Nathan Cano,Consumer,6,2014-05-03,2017-11-19,2907
+JH-15910,Jonathan Howell,Consumer,7,2015-06-12,2017-11-19,2907
+JD-16150,Justin Deggeller,Corporate,8,2014-11-16,2017-11-19,2907
+DD-13570,Dorothy Dickinson,Consumer,6,2014-03-31,2017-11-19,2907
+AS-10135,Adrian Shami,Home Office,2,2016-11-13,2017-11-19,2907
+AP-10720,Anne Pryor,Home Office,8,2014-03-03,2017-11-19,2907
+AF-10870,Art Ferguson,Consumer,7,2015-12-06,2017-11-19,2907
+AB-10105,Adrian Barton,Consumer,10,2014-12-20,2017-11-19,2907
+AB-10150,Aimee Bixby,Consumer,5,2014-03-05,2017-11-19,2907
+SC-20770,Stewart Carmichael,Corporate,7,2015-06-20,2017-11-19,2907
+RD-19930,Russell D'Ascenzo,Consumer,4,2014-10-03,2017-11-18,2908
+CD-12280,Christina DeMoss,Consumer,2,2017-11-05,2017-11-18,2908
+DK-13090,Dave Kipp,Consumer,7,2015-03-02,2017-11-18,2908
+JW-15220,Jane Waco,Corporate,6,2015-04-30,2017-11-18,2908
+JS-15685,Jim Sink,Corporate,4,2016-06-14,2017-11-18,2908
+ME-17320,Maria Etezadi,Home Office,10,2014-01-06,2017-11-18,2908
+GG-14650,Greg Guthrie,Corporate,9,2014-10-31,2017-11-17,2909
+JB-16000,Joy Bell-,Consumer,7,2016-01-10,2017-11-17,2909
+HL-15040,Hunter Lopez,Consumer,6,2014-01-20,2017-11-17,2909
+CK-12595,Clytie Kelty,Consumer,11,2014-12-26,2017-11-17,2909
+CC-12370,Christopher Conant,Consumer,5,2016-05-23,2017-11-17,2909
+RA-19885,Ruben Ausman,Corporate,7,2014-04-08,2017-11-17,2909
+XP-21865,Xylona Preis,Consumer,11,2014-01-20,2017-11-17,2909
+EK-13795,Eileen Kiefer,Home Office,4,2014-03-18,2017-11-16,2910
+JK-15370,Jay Kimmel,Consumer,8,2014-04-11,2017-11-16,2910
+MB-18085,Mick Brown,Consumer,7,2014-01-05,2017-11-16,2910
+MW-18235,Mitch Willingham,Corporate,2,2014-05-21,2017-11-16,2910
+DK-12895,Dana Kaydos,Consumer,5,2015-03-08,2017-11-15,2911
+AW-10930,Arthur Wiediger,Home Office,7,2014-07-14,2017-11-14,2912
+JE-15715,Joe Elijah,Consumer,10,2014-08-25,2017-11-14,2912
+PW-19030,Pauline Webber,Corporate,10,2014-05-16,2017-11-14,2912
+SB-20290,Sean Braxton,Corporate,7,2014-05-09,2017-11-13,2913
+SP-20620,Stefania Perrino,Corporate,9,2014-09-08,2017-11-13,2913
+KL-16645,Ken Lonsdale,Consumer,12,2014-07-25,2017-11-13,2913
+CB-12025,Cassandra Brandow,Consumer,10,2014-03-21,2017-11-13,2913
+EM-14065,Erin Mull,Consumer,4,2014-07-22,2017-11-13,2913
+EM-14140,Eugene Moren,Home Office,6,2014-07-19,2017-11-12,2914
+EB-13705,Ed Braxton,Corporate,9,2014-07-08,2017-11-12,2914
+DJ-13510,Don Jones,Corporate,8,2014-08-17,2017-11-12,2914
+DB-13120,David Bremer,Corporate,7,2015-05-01,2017-11-12,2914
+LB-16735,Larry Blacks,Consumer,3,2016-07-25,2017-11-12,2914
+MB-17305,Maria Bertelson,Consumer,10,2014-08-08,2017-11-12,2914
+NG-18355,Nat Gilpin,Corporate,5,2014-11-24,2017-11-12,2914
+NG-18430,Nathan Gelder,Consumer,5,2014-11-24,2017-11-12,2914
+JE-15610,Jim Epp,Corporate,7,2014-10-14,2017-11-12,2914
+SF-20965,Sylvia Foulston,Corporate,9,2014-10-21,2017-11-12,2914
+TB-21190,Thomas Brumley,Home Office,4,2014-12-27,2017-11-11,2915
+JL-15505,Jeremy Lonsdale,Consumer,6,2014-11-14,2017-11-11,2915
+MT-17815,Meg Tillman,Consumer,6,2015-11-06,2017-11-11,2915
+MH-18025,Michelle Huthwaite,Consumer,5,2014-07-08,2017-11-11,2915
+CG-12040,Catherine Glotzbach,Home Office,6,2015-06-01,2017-11-11,2915
+DR-12940,Daniel Raglin,Home Office,8,2014-03-28,2017-11-10,2916
+AB-10600,Ann Blume,Corporate,4,2014-11-18,2017-11-10,2916
+GH-14425,Gary Hwang,Consumer,4,2014-06-17,2017-11-10,2916
+JE-15745,Joel Eaton,Consumer,13,2014-06-22,2017-11-09,2917
+MC-17590,Matt Collister,Corporate,6,2014-05-20,2017-11-09,2917
+PM-19135,Peter McVee,Home Office,4,2015-12-19,2017-11-09,2917
+KN-16450,Kean Nguyen,Corporate,5,2014-04-12,2017-11-08,2918
+EC-14050,Erin Creighton,Consumer,5,2014-12-17,2017-11-07,2919
+DB-13270,Deborah Brumfield,Home Office,8,2014-02-04,2017-11-07,2919
+AB-10060,Adam Bellavance,Home Office,8,2015-09-18,2017-11-06,2920
+CD-11980,Carol Darley,Consumer,3,2016-11-24,2017-11-06,2920
+LC-17050,Liz Carlisle,Consumer,5,2014-01-31,2017-11-06,2920
+ML-17410,Maris LaWare,Consumer,6,2014-11-14,2017-11-06,2920
+JF-15565,Jill Fjeld,Consumer,8,2014-10-11,2017-11-06,2920
+HG-14845,Harry Greene,Consumer,5,2014-04-29,2017-11-06,2920
+RB-19705,Roger Barcio,Home Office,4,2015-08-22,2017-11-06,2920
+VB-21745,Victoria Brennan,Corporate,6,2015-07-17,2017-11-06,2920
+VM-21685,Valerie Mitchum,Home Office,7,2014-04-07,2017-11-06,2920
+ZC-21910,Zuschuss Carroll,Consumer,13,2014-10-13,2017-11-06,2920
+TS-21610,Troy Staebel,Consumer,7,2014-08-16,2017-11-05,2921
+AA-10645,Anna Andreadi,Consumer,6,2014-06-22,2017-11-05,2921
+AH-10195,Alan Haines,Corporate,4,2015-03-05,2017-11-05,2921
+EM-13825,Elizabeth Moffitt,Corporate,8,2014-12-02,2017-11-05,2921
+CA-12265,Christina Anderson,Consumer,9,2014-03-25,2017-11-04,2922
+GT-14635,Grant Thornton,Corporate,3,2014-06-06,2017-11-04,2922
+KM-16375,Katherine Murray,Home Office,8,2014-07-20,2017-11-04,2922
+KC-16675,Kimberly Carter,Corporate,4,2014-12-13,2017-11-03,2923
+JC-16105,Julie Creighton,Corporate,5,2014-11-18,2017-11-03,2923
+JM-16195,Justin MacKendrick,Consumer,10,2014-04-30,2017-11-03,2923
+JO-15145,Jack O'Briant,Corporate,9,2014-01-06,2017-11-03,2923
+BG-11740,Bruce Geld,Consumer,6,2014-03-23,2017-11-03,2923
+BF-11275,Beth Fritzler,Corporate,3,2014-03-22,2017-11-03,2923
+EJ-14155,Eva Jacobs,Consumer,5,2014-03-03,2017-11-03,2923
+DL-12925,Daniel Lacy,Consumer,6,2014-09-09,2017-11-03,2923
+DM-13015,Darrin Martin,Consumer,7,2014-09-14,2017-11-03,2923
+DL-13330,Denise Leinenbach,Consumer,4,2014-06-23,2017-11-03,2923
+CR-12580,Clay Rozendal,Home Office,4,2016-04-18,2017-11-03,2923
+PG-18895,Paul Gonzalez,Consumer,9,2014-05-11,2017-11-03,2923
+PB-19105,Peter BÃ¼hler,Consumer,4,2014-11-15,2017-11-03,2923
+NP-18670,Nora Paige,Consumer,5,2015-02-27,2017-11-02,2924
+NL-18310,Nancy Lomonaco,Home Office,4,2014-10-31,2017-11-02,2924
+TH-21115,Thea Hudgings,Corporate,4,2014-09-23,2017-11-02,2924
+TB-21175,Thomas Boland,Corporate,4,2014-12-08,2017-11-02,2924
+CS-12505,Cindy Stewart,Consumer,6,2014-03-26,2017-11-02,2924
+AR-10825,Anthony Rawles,Corporate,8,2014-06-30,2017-11-02,2924
+KH-16630,Ken Heidel,Corporate,9,2014-11-01,2017-11-02,2924
+SF-20065,Sandra Flanagan,Consumer,7,2014-09-10,2017-11-01,2925
+SF-20200,Sarah Foster,Consumer,9,2014-12-23,2017-11-01,2925
+AH-10120,Adrian Hane,Home Office,7,2014-07-18,2017-10-31,2926
+CY-12745,Craig Yedwab,Corporate,8,2014-12-12,2017-10-31,2926
+MM-18055,Michelle Moray,Consumer,8,2014-04-11,2017-10-30,2927
+JK-15625,Jim Karlsson,Consumer,7,2014-05-31,2017-10-30,2927
+JK-15205,Jamie Kunitz,Consumer,5,2014-07-11,2017-10-30,2927
+RA-19945,Ryan Akin,Consumer,5,2014-08-29,2017-10-30,2927
+GB-14530,George Bell,Corporate,11,2014-04-28,2017-10-29,2928
+SA-20830,Sue Ann Reed,Consumer,10,2014-02-22,2017-10-28,2929
+TW-21025,Tamara Willingham,Home Office,7,2014-12-22,2017-10-27,2930
+MA-17560,Matt Abelman,Home Office,11,2014-08-08,2017-10-27,2930
+JF-15190,Jamie Frazer,Consumer,7,2014-11-15,2017-10-26,2931
+BF-11215,Benjamin Farhat,Home Office,4,2014-11-09,2017-10-26,2931
+OT-18730,Olvera Toch,Consumer,5,2015-04-20,2017-10-26,2931
+RB-19330,Randy Bradley,Consumer,2,2014-11-17,2017-10-23,2934
+JR-15700,Jocasta Rupert,Consumer,1,2017-10-23,2017-10-23,2934
+HA-14905,Helen Abelman,Consumer,7,2014-06-30,2017-10-22,2935
+ML-17395,Marina Lichtenstein,Corporate,9,2014-02-14,2017-10-22,2935
+BD-11620,Brian DeCherney,Consumer,6,2014-06-30,2017-10-22,2935
+DW-13195,David Wiener,Corporate,6,2014-01-18,2017-10-22,2935
+PS-18970,Paul Stevenson,Home Office,8,2014-04-15,2017-10-22,2935
+TA-21385,Tom Ashbrook,Home Office,4,2014-09-12,2017-10-22,2935
+SP-20920,Susan Pistek,Consumer,6,2014-11-22,2017-10-21,2936
+PH-18790,Patricia Hirasaki,Home Office,1,2017-10-21,2017-10-21,2936
+SL-20155,Sara Luxemburg,Home Office,7,2014-09-21,2017-10-21,2936
+NK-18490,Neil Knudson,Home Office,7,2015-05-28,2017-10-21,2936
+FC-14245,Frank Carlisle,Home Office,7,2015-06-13,2017-10-21,2936
+IG-15085,Ivan Gibson,Consumer,4,2014-10-18,2017-10-20,2937
+MY-18295,Muhammed Yedwab,Corporate,11,2014-04-28,2017-10-20,2937
+PT-19090,Pete Takahito,Consumer,4,2014-09-12,2017-10-20,2937
+RD-19480,Rick Duston,Consumer,8,2014-06-08,2017-10-19,2938
+TH-21550,Tracy Hopkins,Home Office,7,2014-04-05,2017-10-19,2938
+MP-17965,Michael Paige,Corporate,9,2015-04-18,2017-10-19,2938
+MO-17500,Mary O'Rourke,Consumer,4,2014-11-28,2017-10-19,2938
+HH-15010,Hilary Holden,Corporate,2,2014-08-29,2017-10-19,2938
+BF-11020,Barry FranzÃ¶sisch,Corporate,8,2014-02-15,2017-10-17,2940
+AJ-10960,Astrea Jones,Consumer,3,2014-09-14,2017-10-17,2940
+AJ-10780,Anthony Jacobs,Corporate,7,2014-01-10,2017-10-16,2941
+BO-11425,Bobby Odegard,Consumer,2,2015-09-10,2017-10-16,2941
+GH-14410,Gary Hansen,Home Office,9,2014-07-09,2017-10-16,2941
+VP-21760,Victoria Pisteka,Corporate,7,2014-09-06,2017-10-16,2941
+SV-20815,Stuart Van,Corporate,4,2015-05-04,2017-10-15,2942
+RS-19420,Ricardo Sperren,Corporate,5,2014-08-05,2017-10-15,2942
+MC-17275,Marc Crier,Consumer,8,2014-09-08,2017-10-15,2942
+DL-13495,Dionis Lloyd,Corporate,8,2015-12-25,2017-10-15,2942
+EL-13735,Ed Ludwig,Home Office,2,2016-04-22,2017-10-14,2943
+BK-11260,Berenike Kampe,Consumer,6,2014-08-03,2017-10-14,2943
+AG-10765,Anthony Garverick,Home Office,4,2014-09-17,2017-10-14,2943
+AG-10495,Andrew Gjertsen,Corporate,8,2015-01-04,2017-10-13,2944
+CR-12730,Craig Reiter,Consumer,4,2014-08-20,2017-10-13,2944
+ML-18040,Michelle Lonsdale,Corporate,3,2017-03-26,2017-10-12,2945
+NF-18385,Natalie Fritzler,Consumer,7,2014-02-11,2017-10-12,2945
+RW-19690,Robert Waldorf,Consumer,5,2016-05-30,2017-10-12,2945
+SN-20710,Steve Nguyen,Home Office,7,2014-05-06,2017-10-12,2945
+SM-20320,Sean Miller,Home Office,5,2014-03-18,2017-10-12,2945
+SP-20860,Sung Pak,Corporate,10,2014-12-15,2017-10-12,2945
+SW-20245,Scot Wooten,Consumer,7,2014-07-20,2017-10-10,2947
+CP-12085,Cathy Prescott,Corporate,8,2014-12-04,2017-10-09,2948
+CK-12760,Cyma Kinney,Corporate,9,2014-02-07,2017-10-09,2948
+EB-14170,Evan Bailliet,Consumer,6,2014-09-29,2017-10-09,2948
+BP-11050,Barry Pond,Corporate,5,2014-10-12,2017-10-08,2949
+GM-14440,Gary McGarr,Consumer,7,2014-03-21,2017-10-08,2949
+JK-15730,Joe Kamberova,Consumer,10,2014-11-18,2017-10-07,2950
+MG-18145,Mike Gockenbach,Consumer,4,2014-03-29,2017-10-07,2950
+Dp-13240,Dean percer,Home Office,11,2014-05-26,2017-10-07,2950
+CR-12820,Cyra Reiten,Home Office,3,2015-01-24,2017-10-06,2951
+AJ-10945,Ashley Jarboe,Consumer,7,2014-03-03,2017-10-06,2951
+MH-17455,Mark Hamilton,Consumer,8,2014-07-11,2017-10-06,2951
+MM-18280,Muhammed MacIntyre,Corporate,9,2014-01-20,2017-10-06,2951
+NZ-18565,Nick Zandusky,Home Office,9,2014-08-02,2017-10-06,2951
+PO-19195,Phillina Ober,Home Office,5,2014-01-04,2017-10-05,2952
+LW-16825,Laurel Workman,Corporate,5,2014-05-30,2017-10-03,2954
+AS-10045,Aaron Smayling,Corporate,7,2014-07-27,2017-10-03,2954
+BP-11155,Becky Pak,Consumer,6,2015-06-04,2017-10-02,2955
+PV-18985,Paul Van Hugh,Home Office,5,2014-07-12,2017-10-02,2955
+SC-20695,Steve Chapman,Corporate,10,2014-12-16,2017-10-02,2955
+RW-19630,Rob Williams,Corporate,9,2014-06-28,2017-10-02,2955
+RF-19735,Roland Fjeld,Consumer,7,2014-08-06,2017-10-02,2955
+TN-21040,Tanja Norvell,Home Office,7,2014-10-10,2017-10-01,2956
+EB-13840,Ellis Ballard,Corporate,5,2014-05-30,2017-10-01,2956
+CS-11845,Cari Sayre,Corporate,5,2014-12-14,2017-09-30,2957
+BF-10975,Barbara Fisher,Corporate,7,2014-07-14,2017-09-30,2957
+BT-11530,Bradley Talbott,Home Office,5,2014-05-21,2017-09-30,2957
+AS-10630,Ann Steele,Home Office,7,2014-08-01,2017-09-29,2958
+MG-17680,Maureen Gastineau,Home Office,4,2014-10-22,2017-09-29,2958
+ME-18010,Michelle Ellison,Corporate,4,2014-07-21,2017-09-29,2958
+JO-15280,Jas O'Carroll,Consumer,6,2014-03-31,2017-09-29,2958
+JA-15970,Joseph Airdo,Consumer,8,2014-09-17,2017-09-29,2958
+SC-20575,Sonia Cooley,Consumer,5,2014-06-16,2017-09-29,2958
+BD-11725,Bruce Degenhardt,Consumer,6,2015-07-03,2017-09-28,2959
+DS-13030,Darrin Sayre,Home Office,4,2014-07-09,2017-09-28,2959
+SJ-20125,Sanjit Jacobs,Home Office,12,2015-09-22,2017-09-26,2961
+RB-19360,Raymond Buch,Consumer,6,2016-04-01,2017-09-25,2962
+CT-11995,Carol Triggs,Consumer,8,2014-05-07,2017-09-25,2962
+CA-11965,Carol Adams,Corporate,6,2014-01-26,2017-09-25,2962
+AG-10900,Arthur Gainer,Consumer,10,2014-07-23,2017-09-25,2962
+LS-17200,Luke Schmidt,Corporate,6,2014-10-18,2017-09-25,2962
+KW-16435,Katrina Willman,Consumer,5,2015-08-24,2017-09-25,2962
+KF-16285,Karen Ferguson,Home Office,7,2014-09-26,2017-09-24,2963
+KC-16540,Kelly Collister,Consumer,4,2015-11-02,2017-09-24,2963
+AG-10675,Anna Gayman,Consumer,7,2015-05-07,2017-09-24,2963
+BD-11605,Brian Dahlen,Consumer,7,2014-01-13,2017-09-24,2963
+FA-14230,Frank Atkinson,Corporate,7,2014-09-19,2017-09-24,2963
+PP-18955,Paul Prost,Home Office,10,2014-08-26,2017-09-24,2963
+PB-19150,Philip Brown,Consumer,8,2014-07-14,2017-09-24,2963
+DW-13540,Don Weiss,Consumer,5,2016-02-27,2017-09-23,2964
+BE-11410,Bobby Elias,Consumer,5,2016-02-07,2017-09-23,2964
+AP-10915,Arthur Prichep,Consumer,10,2014-08-23,2017-09-23,2964
+KN-16705,Kristina Nunn,Home Office,8,2014-03-02,2017-09-23,2964
+MH-17785,Maya Herman,Corporate,7,2014-05-27,2017-09-23,2964
+MG-17890,Michael Granlund,Home Office,9,2014-12-29,2017-09-22,2965
+ML-18265,Muhammed Lee,Consumer,2,2015-05-31,2017-09-21,2966
+KT-16480,Kean Thornton,Consumer,10,2014-03-10,2017-09-21,2966
+BM-11575,Brendan Murry,Corporate,6,2015-09-15,2017-09-21,2966
+DL-12865,Dan Lawera,Consumer,8,2014-06-29,2017-09-21,2966
+EB-13870,Emily Burns,Consumer,10,2014-05-05,2017-09-21,2966
+SV-20365,Seth Vernon,Consumer,10,2014-01-11,2017-09-20,2967
+JM-15535,Jessica Myrick,Consumer,7,2014-09-13,2017-09-19,2968
+JP-16135,Julie Prescott,Home Office,9,2014-09-23,2017-09-19,2968
+TM-21010,Tamara Manning,Consumer,8,2014-02-21,2017-09-18,2969
+PA-19060,Pete Armstrong,Home Office,6,2014-05-17,2017-09-18,2969
+TP-21415,Tom Prescott,Consumer,5,2015-11-28,2017-09-17,2970
+MO-17800,Meg O'Connel,Home Office,8,2015-09-17,2017-09-17,2970
+JF-15355,Jay Fein,Consumer,6,2015-10-23,2017-09-16,2971
+EH-14185,Evan Henry,Consumer,6,2014-05-22,2017-09-16,2971
+CL-12700,Craig Leslie,Home Office,5,2016-04-24,2017-09-16,2971
+BB-10990,Barry Blumstein,Corporate,5,2014-07-27,2017-09-16,2971
+CL-11890,Carl Ludwig,Consumer,4,2014-07-26,2017-09-15,2972
+CC-12145,Charles Crestani,Consumer,7,2014-07-20,2017-09-15,2972
+GM-14500,Gene McClure,Consumer,10,2014-08-09,2017-09-15,2972
+TC-21145,Theresa Coyne,Corporate,1,2017-09-15,2017-09-15,2972
+TB-21520,Tracy Blumstein,Consumer,9,2014-10-17,2017-09-14,2973
+PS-18760,Pamela Stobb,Consumer,6,2014-06-15,2017-09-14,2973
+DB-13555,Dorothy Badders,Corporate,7,2014-04-21,2017-09-14,2973
+SG-20605,Speros Goranitis,Consumer,6,2014-01-23,2017-09-13,2974
+JM-15865,John Murray,Consumer,7,2014-11-19,2017-09-12,2975
+RC-19960,Ryan Crowe,Consumer,6,2014-08-25,2017-09-11,2976
+SS-20410,Shahid Shariari,Consumer,6,2014-05-30,2017-09-11,2976
+SN-20560,Skye Norling,Home Office,6,2015-06-18,2017-09-10,2977
+AR-10345,Alex Russell,Corporate,4,2014-12-30,2017-09-10,2977
+GK-14620,Grace Kelly,Corporate,9,2014-06-25,2017-09-09,2978
+JD-16015,Joy Daniels,Consumer,6,2014-10-04,2017-09-09,2978
+KD-16495,Keith Dawkins,Corporate,12,2014-09-28,2017-09-09,2978
+MC-17605,Matt Connell,Corporate,8,2014-03-19,2017-09-09,2978
+EM-14095,Eudokia Martin,Corporate,4,2015-08-07,2017-09-08,2979
+EB-14110,Eugene Barchas,Consumer,6,2015-04-13,2017-09-08,2979
+DM-12955,Dario Medina,Corporate,7,2014-09-30,2017-09-07,2980
+AG-10390,Allen Goldenen,Consumer,5,2014-04-19,2017-09-07,2980
+NF-18595,Nicole Fjeld,Home Office,7,2014-04-19,2017-09-07,2980
+JC-15340,Jasper Cacioppo,Consumer,4,2014-01-28,2017-09-07,2980
+RD-19660,Robert Dilbeck,Home Office,5,2015-04-12,2017-09-07,2980
+RD-19900,Ruben Dartt,Consumer,9,2014-04-05,2017-09-07,2980
+PF-19225,Phillip Flathmann,Consumer,5,2016-06-26,2017-09-07,2980
+TG-21640,Trudy Glocke,Consumer,4,2014-03-31,2017-09-07,2980
+MG-17875,Michael Grace,Home Office,5,2014-02-23,2017-09-05,2982
+MD-17350,Maribeth Dona,Consumer,7,2014-11-05,2017-09-04,2983
+JD-15790,John Dryer,Consumer,5,2015-04-02,2017-09-04,2983
+HW-14935,Helen Wasserman,Corporate,8,2015-09-27,2017-09-04,2983
+GM-14695,Greg Maxwell,Corporate,3,2014-04-05,2017-09-04,2983
+KB-16405,Katrina Bavinger,Home Office,3,2015-11-20,2017-09-04,2983
+JK-16120,Julie Kriz,Home Office,10,2014-11-02,2017-09-04,2983
+TH-21235,Tiffany House,Corporate,8,2014-11-04,2017-09-04,2983
+VM-21835,Vivian Mathis,Consumer,5,2014-03-22,2017-09-04,2983
+AG-10300,Aleksandra Gannaway,Corporate,4,2014-04-26,2017-09-03,2984
+BE-11335,Bill Eplett,Home Office,5,2016-01-15,2017-09-02,2985
+Dl-13600,Dorris liebe,Corporate,5,2014-03-30,2017-09-02,2985
+JL-15235,Janet Lee,Consumer,5,2014-05-25,2017-09-02,2985
+JS-15595,Jill Stevenson,Corporate,4,2014-03-03,2017-09-02,2985
+MH-17290,Marc Harrigan,Home Office,6,2014-04-26,2017-09-02,2985
+TB-21055,Ted Butterfield,Consumer,5,2016-06-17,2017-09-02,2985
+RK-19300,Ralph Kennedy,Consumer,3,2015-07-20,2017-09-02,2985
+RW-19540,Rick Wilson,Corporate,7,2015-02-03,2017-09-01,2986
+SS-20875,Sung Shariari,Consumer,5,2014-12-14,2017-09-01,2986
+CK-12325,Christine Kargatis,Home Office,5,2014-03-14,2017-09-01,2986
+CA-12775,Cynthia Arntzen,Consumer,7,2014-06-28,2017-09-01,2986
+BW-11110,Bart Watters,Corporate,8,2015-03-20,2017-08-31,2987
+MS-17770,Maxwell Schwartz,Consumer,9,2014-07-04,2017-08-31,2987
+JF-15490,Jeremy Farry,Consumer,11,2014-10-19,2017-08-31,2987
+RL-19615,Rob Lucas,Consumer,8,2014-12-05,2017-08-31,2987
+ST-20530,Shui Tom,Consumer,7,2014-02-14,2017-08-27,2991
+MR-17545,Mathew Reese,Home Office,4,2014-09-03,2017-08-27,2991
+AR-10405,Allen Rosenblatt,Corporate,5,2014-10-03,2017-08-27,2991
+DP-13000,Darren Powers,Consumer,9,2014-01-03,2017-08-26,2992
+HJ-14875,Heather Jas,Home Office,5,2015-04-13,2017-08-26,2992
+SC-20680,Steve Carroll,Home Office,6,2014-11-21,2017-08-26,2992
+TM-21490,Tony Molinari,Consumer,3,2017-03-30,2017-08-22,2996
+SC-20845,Sung Chung,Consumer,2,2016-11-11,2017-08-21,2997
+CM-11815,Candace McMahon,Corporate,6,2014-11-14,2017-08-21,2997
+EM-13810,Eleni McCrary,Corporate,5,2015-06-07,2017-08-20,2998
+LR-17035,Lisa Ryan,Corporate,5,2014-09-07,2017-08-20,2998
+DO-13435,Denny Ordway,Consumer,9,2014-10-03,2017-08-19,2999
+PJ-19015,Pauline Johnson,Consumer,7,2014-04-07,2017-08-18,3000
+ED-13885,Emily Ducich,Home Office,8,2014-08-09,2017-08-17,3001
+EH-13765,Edward Hooks,Corporate,12,2014-04-12,2017-08-17,3001
+BO-11350,Bill Overfelt,Corporate,5,2016-01-03,2017-08-15,3003
+NP-18700,Nora Preis,Consumer,7,2014-09-05,2017-08-14,3004
+IL-15100,Ivan Liston,Consumer,7,2014-08-01,2017-08-10,3008
+FM-14380,Fred McMath,Consumer,9,2015-07-12,2017-08-07,3011
+TB-21355,Todd Boyes,Corporate,5,2016-01-25,2017-08-06,3012
+SC-20230,Scot Coram,Corporate,4,2016-06-06,2017-08-03,3015
+GA-14515,George Ashbrook,Consumer,8,2014-05-18,2017-08-03,3015
+HK-14890,Heather Kirkland,Corporate,8,2014-06-10,2017-08-01,3017
+LH-16750,Larry Hughes,Consumer,3,2014-09-21,2017-08-01,3017
+EM-13960,Eric Murdock,Consumer,5,2015-10-01,2017-08-01,3017
+EH-14125,Eugene Hildebrand,Home Office,10,2014-10-19,2017-07-31,3018
+EA-14035,Erin Ashbrook,Corporate,13,2014-09-13,2017-07-31,3018
+LB-16795,Laurel Beltran,Home Office,8,2014-04-23,2017-07-31,3018
+GM-14680,Greg Matthias,Consumer,6,2014-05-10,2017-07-31,3018
+TC-21475,Tony Chapman,Home Office,9,2014-11-22,2017-07-30,3019
+VG-21790,Vivek Gonzalez,Consumer,6,2014-08-08,2017-07-29,3020
+LA-16780,Laura Armstrong,Corporate,11,2014-04-29,2017-07-29,3020
+MH-17620,Matt Hagelstein,Corporate,4,2015-12-05,2017-07-28,3021
+GZ-14545,George Zrebassa,Corporate,4,2014-09-28,2017-07-26,3023
+JC-15775,John Castell,Consumer,9,2014-09-14,2017-07-25,3024
+EM-14200,Evan Minnotte,Home Office,3,2015-12-20,2017-07-25,3024
+HR-14830,Harold Ryan,Corporate,7,2014-11-24,2017-07-24,3025
+CP-12340,Christine Phan,Corporate,8,2014-03-17,2017-07-23,3026
+AZ-10750,Annie Zypern,Consumer,6,2014-03-17,2017-07-23,3026
+NM-18445,Nathan Mautz,Home Office,7,2014-02-08,2017-07-23,3026
+PO-19180,Philisse Overcash,Home Office,9,2015-08-11,2017-07-23,3026
+EB-13930,Eric Barreto,Consumer,5,2014-02-02,2017-07-22,3027
+CS-11860,Cari Schnelling,Consumer,6,2014-05-02,2017-07-21,3028
+AM-10705,Anne McFarland,Consumer,8,2014-10-31,2017-07-21,3028
+SW-20350,Sean Wendt,Home Office,3,2016-04-09,2017-07-21,3028
+SW-20455,Shaun Weien,Consumer,7,2015-06-22,2017-07-21,3028
+AJ-10795,Anthony Johnson,Corporate,7,2014-05-14,2017-07-17,3032
+AB-10255,Alejandro Ballentine,Home Office,9,2014-07-22,2017-07-17,3032
+MM-17260,Magdelene Morse,Consumer,4,2014-05-28,2017-07-15,3034
+RR-19525,Rick Reed,Corporate,6,2014-09-09,2017-07-13,3036
+NW-18400,Natalie Webber,Consumer,7,2014-06-21,2017-07-11,3038
+TS-21430,Tom Stivers,Corporate,5,2014-07-30,2017-07-11,3038
+NS-18640,Noel Staavos,Corporate,13,2014-06-25,2017-07-09,3040
+JH-15820,John Huston,Consumer,6,2014-05-19,2017-07-09,3040
+JC-15385,Jenna Caffey,Consumer,1,2017-07-08,2017-07-08,3041
+LS-16945,Linda Southworth,Corporate,6,2015-04-25,2017-07-05,3044
+MO-17950,Michael Oakman,Consumer,2,2015-04-02,2017-07-03,3046
+JK-15640,Jim Kriz,Home Office,9,2014-09-19,2017-07-03,3046
+RD-19585,Rob Dowd,Consumer,10,2014-04-02,2017-07-03,3046
+SG-20470,Sheri Gordon,Consumer,8,2014-07-26,2017-06-30,3049
+TT-21220,Thomas Thornton,Consumer,8,2014-09-23,2017-06-30,3049
+ND-18460,Neil Ducich,Corporate,6,2014-02-06,2017-06-30,3049
+FC-14335,Fred Chung,Corporate,7,2014-10-10,2017-06-29,3050
+AA-10315,Alex Avila,Consumer,5,2014-03-31,2017-06-29,3050
+MA-17995,Michelle Arnett,Home Office,6,2014-09-20,2017-06-27,3052
+DB-13405,Denny Blanton,Consumer,4,2015-08-08,2017-06-26,3053
+SC-20725,Steven Cartwright,Consumer,11,2014-06-03,2017-06-26,3053
+SC-20260,Scott Cohen,Corporate,8,2014-04-06,2017-06-26,3053
+SB-20185,Sarah Brown,Consumer,6,2014-09-20,2017-06-25,3054
+CJ-12010,Caroline Jumper,Consumer,8,2016-03-10,2017-06-24,3055
+MC-17635,Matthew Clasen,Corporate,4,2014-11-28,2017-06-24,3055
+NH-18610,Nicole Hansen,Corporate,7,2014-03-02,2017-06-24,3055
+AS-10240,Alan Shonely,Consumer,7,2014-03-15,2017-06-21,3058
+JE-15475,Jeremy Ellison,Consumer,6,2015-03-16,2017-06-20,3059
+TR-21325,Toby Ritter,Consumer,5,2014-12-01,2017-06-20,3059
+SR-20740,Steven Roelle,Home Office,8,2014-02-20,2017-06-17,3062
+PF-19165,Philip Fox,Consumer,6,2014-09-20,2017-06-17,3062
+CB-12535,Claudia Bergmann,Corporate,8,2015-01-02,2017-06-16,3063
+TS-21205,Thomas Seio,Corporate,7,2014-03-21,2017-06-15,3064
+SD-20485,Shirley Daniels,Home Office,9,2014-01-26,2017-06-13,3066
+SB-20170,Sarah Bern,Consumer,3,2014-06-06,2017-06-12,3067
+TB-21400,Tom Boeckenhauer,Consumer,7,2014-01-21,2017-06-11,3068
+ZD-21925,Zuschuss Donatelli,Consumer,5,2014-08-27,2017-06-11,3068
+BC-11125,Becky Castell,Home Office,9,2014-07-06,2017-06-11,3068
+BW-11200,Ben Wallace,Consumer,6,2014-08-12,2017-06-10,3069
+MT-18070,Michelle Tran,Home Office,4,2014-09-25,2017-06-10,3069
+NC-18625,Noah Childs,Corporate,5,2014-10-29,2017-06-09,3070
+LW-17125,Liz Willingham,Consumer,3,2014-09-11,2017-06-08,3071
+NR-18550,Nick Radford,Consumer,5,2014-06-07,2017-06-03,3076
+FH-14350,Fred Harton,Consumer,4,2015-08-23,2017-06-01,3078
+BW-11065,Barry Weirich,Consumer,3,2014-05-25,2017-06-01,3078
+JO-15550,Jesus Ocampo,Home Office,5,2015-03-19,2017-05-29,3081
+EH-13945,Eric Hoffmann,Consumer,8,2014-07-02,2017-05-27,3083
+DW-13480,Dianna Wilson,Home Office,5,2014-06-01,2017-05-27,3083
+DN-13690,Duane Noonan,Consumer,7,2014-09-20,2017-05-27,3083
+BM-11785,Bryan Mills,Consumer,10,2014-06-06,2017-05-26,3084
+VS-21820,Vivek Sundaresam,Consumer,4,2014-01-07,2017-05-23,3087
+JG-15805,John Grady,Corporate,6,2014-04-05,2017-05-21,3089
+NC-18340,Nat Carroll,Consumer,5,2014-03-30,2017-05-20,3090
+JF-15295,Jason Fortune-,Consumer,5,2014-03-14,2017-05-19,3091
+TS-21340,Toby Swindell,Consumer,5,2014-01-19,2017-05-18,3092
+SG-20890,Susan Gilcrest,Corporate,3,2014-03-30,2017-05-18,3092
+KB-16585,Ken Black,Corporate,12,2014-04-04,2017-05-14,3096
+AH-10465,Amy Hunt,Consumer,5,2015-01-03,2017-05-14,3096
+AC-10420,Alyssa Crouse,Corporate,3,2014-07-12,2017-05-12,3098
+CS-12175,Charles Sheldon,Corporate,5,2014-08-12,2017-05-12,3098
+PS-19045,Penelope Sewall,Home Office,7,2014-12-20,2017-05-08,3102
+TS-21655,Trudy Schmidt,Consumer,5,2015-02-06,2017-05-06,3104
+LH-17020,Lisa Hazard,Consumer,4,2014-09-08,2017-05-05,3105
+MK-18160,Mike Kennedy,Consumer,4,2014-12-19,2017-05-04,3106
+DB-12970,Darren Budd,Corporate,5,2014-11-12,2017-05-03,3107
+DW-13585,Dorothy Wardle,Corporate,7,2014-08-24,2017-05-02,3108
+NM-18520,Neoma Murray,Consumer,10,2015-09-08,2017-04-30,3110
+HM-14980,Henry MacAllister,Consumer,4,2015-10-02,2017-04-27,3113
+LL-16840,Lauren Leatherbury,Consumer,6,2014-04-29,2017-04-25,3115
+SJ-20500,Shirley Jackson,Consumer,5,2014-08-31,2017-04-21,3119
+CV-12295,Christina VanderZanden,Consumer,5,2014-03-28,2017-04-20,3120
+BE-11455,Brad Eason,Home Office,6,2015-08-02,2017-04-20,3120
+AA-10480,Andrew Allen,Consumer,4,2014-05-04,2017-04-15,3125
+DB-13360,Dennis Bolton,Home Office,5,2014-11-19,2017-04-10,3130
+MG-18205,Mitch Gastineau,Corporate,1,2017-04-10,2017-04-10,3130
+BS-11800,Bryan Spruell,Home Office,2,2015-09-26,2017-04-09,3131
+MS-17365,Maribeth Schnelling,Consumer,10,2014-09-09,2017-04-01,3139
+DH-13075,Dave Hallsten,Corporate,6,2014-11-21,2017-03-28,3143
+AG-10270,Alejandro Grove,Consumer,5,2014-05-13,2017-03-27,3144
+BD-11560,Brendan Dodson,Home Office,2,2015-05-30,2017-03-27,3144
+AC-10660,Anna Chung,Consumer,5,2014-10-15,2017-03-23,3148
+MZ-17515,Mary Zewe,Corporate,6,2014-04-04,2017-03-23,3148
+CL-12565,Clay Ludtke,Consumer,12,2014-03-04,2017-03-21,3150
+TB-21595,Troy Blackwell,Consumer,5,2014-02-18,2017-03-20,3151
+VG-21805,Vivek Grady,Corporate,5,2014-09-22,2017-03-19,3152
+EN-13780,Edward Nazzal,Consumer,4,2015-05-30,2017-03-18,3153
+JK-15325,Jason Klamczynski,Corporate,3,2014-11-21,2017-03-18,3153
+KD-16615,Ken Dana,Corporate,5,2015-09-13,2017-03-16,3155
+KS-16300,Karen Seio,Corporate,3,2015-01-13,2017-03-10,3161
+KB-16315,Karl Braun,Consumer,9,2014-08-26,2017-03-09,3162
+RM-19750,Roland Murray,Consumer,1,2017-03-06,2017-03-06,3165
+JD-16060,Julia Dunbar,Consumer,3,2014-09-24,2017-03-05,3166
+EJ-13720,Ed Jacobs,Consumer,4,2014-01-27,2017-03-03,3168
+BT-11395,Bill Tyler,Corporate,6,2014-10-28,2017-03-03,3168
+RE-19450,Richard Eichhorn,Consumer,5,2014-06-03,2017-03-03,3168
+BM-11140,Becky Martin,Consumer,4,2014-09-08,2017-02-26,3173
+SV-20785,Stewart Visinsky,Consumer,9,2014-04-12,2017-02-13,3186
+SP-20545,Sibella Parks,Corporate,6,2014-10-13,2017-02-06,3193
+BD-11770,Bryan Davis,Consumer,6,2016-03-10,2017-02-06,3193
+BV-11245,Benjamin Venier,Corporate,5,2015-03-26,2017-01-30,3200
+BT-11305,Beth Thompson,Home Office,5,2014-04-25,2017-01-28,3202
+TG-21310,Toby Gnade,Consumer,5,2015-03-09,2017-01-27,3203
+CG-12520,Claire Gute,Consumer,3,2015-10-15,2017-01-26,3204
+TH-21100,Thea Hendricks,Consumer,5,2014-09-27,2017-01-20,3210
+RM-19375,Raymond Messe,Consumer,6,2014-05-11,2017-01-19,3211
+SC-20095,Sanjit Chand,Consumer,9,2014-02-12,2017-01-15,3215
+TB-21250,Tim Brockman,Consumer,7,2014-12-08,2017-01-15,3215
+TP-21565,Tracy Poddar,Corporate,4,2015-03-01,2017-01-14,3216
+DA-13450,Dianna Arnett,Home Office,4,2014-04-25,2017-01-12,3218
+TS-21085,Thais Sissman,Consumer,2,2015-07-19,2017-01-07,3223
+DP-13390,Dennis Pardue,Home Office,9,2014-07-05,2017-01-06,3224
+FW-14395,Fred Wasserman,Corporate,3,2015-03-22,2017-01-02,3228
+CJ-11875,Carl Jackson,Corporate,1,2016-12-30,2016-12-30,3231
+MC-18130,Mike Caudle,Corporate,5,2014-09-19,2016-12-26,3235
+RC-19825,Roy Collins,Consumer,6,2014-12-05,2016-12-26,3235
+MH-17440,Mark Haberlin,Corporate,4,2014-02-04,2016-12-19,3242
+LH-17155,Logan Haushalter,Consumer,9,2014-12-12,2016-12-10,3251
+CM-12235,Chris McAfee,Consumer,5,2016-05-01,2016-12-10,3251
+PM-18940,Paul MacIntyre,Consumer,3,2014-05-04,2016-12-09,3252
+SP-20650,Stephanie Phelps,Corporate,9,2014-04-16,2016-12-09,3252
+GH-14485,Gene Hale,Corporate,2,2015-10-08,2016-12-08,3253
+IM-15070,Irene Maddox,Consumer,7,2014-12-19,2016-12-05,3256
+RF-19345,Randy Ferguson,Corporate,8,2014-05-20,2016-12-05,3256
+LM-17065,Liz MacKendrick,Consumer,5,2014-06-27,2016-12-04,3257
+KT-16465,Kean Takahito,Consumer,7,2014-09-08,2016-12-04,3257
+JD-15895,Jonathan Doherty,Corporate,11,2014-03-26,2016-12-01,3260
+MC-17425,Mark Cousins,Corporate,5,2014-05-30,2016-11-26,3265
+CD-12790,Cynthia Delaney,Home Office,5,2014-02-02,2016-11-26,3265
+TC-20980,Tamara Chand,Corporate,5,2014-11-07,2016-11-26,3265
+CA-12055,Cathy Armstrong,Home Office,5,2015-09-05,2016-11-24,3267
+JH-16180,Justin Hirsh,Consumer,4,2015-05-25,2016-11-21,3270
+EH-13990,Erica Hackney,Consumer,6,2014-01-15,2016-11-20,3271
+TT-21265,Tim Taslimi,Corporate,3,2015-08-15,2016-11-19,3272
+NP-18685,Nora Pelletier,Home Office,6,2014-03-07,2016-11-19,3272
+KC-16255,Karen Carlisle,Corporate,6,2014-09-08,2016-11-18,3273
+IM-15055,Ionia McGrath,Consumer,3,2014-01-23,2016-11-16,3275
+AH-10690,Anna HÃ¤berlin,Corporate,12,2014-04-02,2016-11-15,3276
+ON-18715,Odella Nelson,Corporate,9,2014-09-13,2016-11-15,3276
+MS-17710,Maurice Satty,Consumer,6,2014-03-24,2016-11-12,3279
+LD-17005,Lisa DeCherney,Consumer,4,2014-09-29,2016-11-11,3280
+AF-10885,Art Foster,Consumer,4,2014-05-10,2016-11-10,3281
+AB-10015,Aaron Bergman,Consumer,3,2014-02-18,2016-11-10,3281
+ER-13855,Elpida Rittenbach,Corporate,3,2015-12-21,2016-11-04,3287
+MF-17665,Maureen Fritzler,Corporate,5,2014-12-30,2016-11-04,3287
+SM-20005,Sally Matthias,Consumer,4,2014-11-23,2016-11-04,3287
+CS-12490,Cindy Schnelling,Corporate,4,2015-01-12,2016-11-01,3290
+SS-20590,Sonia Sunley,Consumer,6,2014-08-05,2016-10-24,3298
+MS-17530,MaryBeth Skach,Consumer,4,2014-11-04,2016-10-22,3300
+LC-16960,Lindsay Castell,Home Office,4,2015-02-23,2016-10-20,3302
+CM-12445,Chuck Magee,Consumer,3,2014-06-09,2016-10-20,3302
+MS-17830,Melanie Seite,Consumer,4,2014-01-09,2016-10-04,3318
+CC-12100,Chad Cunningham,Home Office,6,2014-12-16,2016-09-29,3323
+JW-16075,Julia West,Consumer,4,2015-03-21,2016-09-25,3327
+JS-15940,Joni Sundaresam,Home Office,5,2014-05-03,2016-09-23,3329
+PW-19240,Pierre Wener,Consumer,7,2014-11-18,2016-09-22,3330
+RH-19510,Rick Huthwaite,Home Office,6,2014-11-16,2016-09-19,3333
+CR-12625,Corey Roper,Home Office,3,2014-06-01,2016-09-16,3336
+DM-13525,Don Miller,Corporate,3,2014-07-05,2016-09-05,3347
+JJ-15445,Jennifer Jackson,Consumer,5,2015-03-05,2016-09-03,3349
+PK-18910,Paul Knutson,Home Office,2,2014-04-04,2016-09-03,3349
+KD-16270,Karen Daniels,Consumer,5,2014-11-11,2016-09-02,3350
+CS-12130,Chad Sievert,Consumer,4,2014-08-05,2016-08-28,3355
+SS-20515,Shirley Schmidt,Home Office,3,2014-07-14,2016-08-26,3357
+RP-19270,Rachel Payne,Corporate,4,2014-10-19,2016-08-21,3362
+AO-10810,Anthony O'Donnell,Corporate,1,2016-08-16,2016-08-16,3367
+TS-21160,Theresa Swint,Corporate,6,2014-04-23,2016-08-13,3370
+RH-19555,Ritsa Hightower,Consumer,2,2015-12-04,2016-07-29,3385
+NF-18475,Neil FranzÃ¶sisch,Home Office,4,2014-03-14,2016-07-23,3391
+JS-15880,John Stevenson,Consumer,5,2014-04-08,2016-07-14,3400
+AR-10570,Anemone Ratner,Consumer,1,2016-07-14,2016-07-14,3400
+RH-19600,Rob Haberlin,Consumer,3,2015-07-02,2016-07-14,3400
+SW-20755,Steven Ward,Corporate,2,2014-11-02,2016-07-14,3400
+Co-12640,Corey-Lock,Consumer,5,2014-06-20,2016-06-29,3415
+LD-16855,Lela Donovan,Corporate,1,2016-06-26,2016-06-26,3418
+MG-17695,Maureen Gnade,Consumer,3,2014-12-26,2016-06-23,3421
+BS-11365,Bill Shonely,Corporate,5,2014-05-04,2016-06-20,3424
+BT-11440,Bobby Trafton,Consumer,4,2014-06-04,2016-06-18,3426
+VD-21670,Valerie Dominguez,Consumer,6,2014-08-04,2016-05-28,3447
+BS-11665,Brian Stugart,Consumer,3,2014-06-23,2016-05-27,3448
+TB-21280,Toby Braunhardt,Consumer,6,2014-06-21,2016-05-26,3449
+JR-15670,Jim Radford,Consumer,2,2015-12-24,2016-05-16,3459
+SM-20905,Susan MacKendrick,Consumer,1,2016-05-03,2016-05-03,3472
+JL-15850,John Lucas,Consumer,6,2014-07-22,2016-04-25,3480
+DJ-13420,Denny Joy,Corporate,4,2014-12-08,2016-04-02,3503
+RB-19645,Robert Barroso,Corporate,5,2014-08-23,2016-03-22,3514
+BT-11485,Brad Thomas,Home Office,2,2015-12-27,2016-03-11,3525
+PB-19210,Phillip Breyer,Corporate,2,2014-11-23,2016-02-11,3554
+CH-12070,Cathy Hwang,Home Office,3,2015-06-25,2016-02-08,3557
+DF-13135,David Flashing,Consumer,3,2014-10-04,2016-01-30,3566
+CM-11935,Carlos Meador,Consumer,2,2015-09-24,2016-01-22,3574
+DE-13255,Deanra Eno,Home Office,5,2014-08-22,2016-01-11,3585
+MP-17470,Mark Packer,Home Office,7,2014-03-30,2016-01-11,3585
+JB-15925,Joni Blumstein,Consumer,3,2014-12-05,2015-12-24,3603
+JJ-15760,Joel Jenkins,Home Office,2,2015-10-05,2015-12-08,3619
+JG-15115,Jack Garza,Consumer,3,2014-09-21,2015-12-03,3624
+GP-14740,Guy Phonely,Corporate,2,2014-04-06,2015-11-26,3631
+SH-20635,Stefanie Holloman,Corporate,2,2014-12-16,2015-11-26,3631
+HD-14785,Harold Dahlen,Home Office,3,2014-05-11,2015-11-22,3635
+KW-16570,Kelly Williams,Consumer,4,2014-09-30,2015-11-20,3637
+DH-13675,Duane Huffman,Home Office,4,2014-08-12,2015-11-15,3642
+LS-17230,Lycoris Saunders,Consumer,3,2014-01-06,2015-11-14,3643
+SC-20020,Sam Craven,Consumer,5,2014-03-03,2015-11-10,3647
+CC-12685,Craig Carroll,Consumer,4,2014-03-22,2015-10-23,3665
+DP-13165,David Philippe,Consumer,2,2014-12-02,2015-10-10,3678
+PF-19120,Peter Fuller,Consumer,4,2014-05-05,2015-09-17,3701
+AG-10525,Andy Gerbode,Corporate,4,2014-08-09,2015-09-07,3711
+PC-19000,Pauline Chand,Home Office,2,2014-04-08,2015-08-01,3748
+VT-21700,Valerie Takahito,Home Office,2,2014-06-06,2015-04-05,3866
+CM-12715,Craig Molinari,Corporate,4,2014-03-07,2015-03-01,3901
+RE-19405,Ricardo Emerson,Consumer,1,2014-12-29,2014-12-29,3963
+GR-14560,Georgia Rosenberg,Corporate,2,2014-11-19,2014-11-21,4001
+NB-18580,Nicole Brennan,Corporate,2,2014-09-26,2014-10-22,4031

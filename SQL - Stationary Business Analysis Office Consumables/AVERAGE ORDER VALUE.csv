@@ -1,0 +1,13 @@
+﻿SEGMENT,ship_mode,avg_order_value,orders
+Corporate,Same Day,777.954137,58
+Home Office,First Class,612.773120,141
+Home Office,Second Class,494.354666,165
+Corporate,Second Class,485.468471,301
+Consumer,Second Class,464.857188,498
+Consumer,Standard Class,462.630045,1535
+Home Office,Same Day,462.152040,49
+Corporate,Standard Class,451.978497,905
+Home Office,Standard Class,431.476931,554
+Corporate,First Class,423.433800,250
+Consumer,First Class,401.941691,396
+Consumer,Same Day,385.963757,157
