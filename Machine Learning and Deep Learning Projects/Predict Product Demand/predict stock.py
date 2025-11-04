@@ -10,8 +10,8 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # === Load and Combine Data ===
-sales_csv = "sales from 1st DEC.csv"
-sales_excel = "LW & Store Onhand - With Case Quantity Sources.xlsx"
+sales_csv = "sales.csv"
+sales_excel = "Sales.xlsx"
 product_file = "All products.xlsx"
 sales_data_csv = pd.read_csv(sales_csv, low_memory=False)
 sales_data_excel = pd.read_excel(sales_excel, header=1)

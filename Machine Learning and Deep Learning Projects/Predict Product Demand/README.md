@@ -18,8 +18,8 @@ To build a **robust and automated forecasting script** capable of:
 
 | File | Description | Required Columns |
 |------|--------------|------------------|
-| **`sales from 1st DEC.csv`** | Main transactional sales dataset exported from the POS system (Shopfront). | `product_id`, `product name`, `case_quantity`, `quantity sold`, `timestamp` |
-| **`LW & Store Onhand - With Case Quantity Sources.xlsx`** | Excel dataset containing store-level on-hand and case quantity information (header starts from row 2). | `product_id`, `product name`, `case_quantity`, `quantity sold`, `timestamp` |
+| **`sales.csv`** | Main transactional sales dataset exported from the POS system (Shopfront). | `product_id`, `product name`, `case_quantity`, `quantity sold`, `timestamp` |
+| **`Sales.xlsx`** | Excel dataset containing store-level on-hand and case quantity information (header starts from row 2). | `product_id`, `product name`, `case_quantity`, `quantity sold`, `timestamp` |
 | **`All products.xlsx`** | Product reference master file for product names and metadata. | `product_id`, `name` *(or `product name`)* |
 | **Outputs** | Auto-generated forecast results and logs. | — |
 
@@ -32,8 +32,8 @@ To build a **robust and automated forecasting script** capable of:
 
 1. **Data Integration**
    - Reads from:
-     - `sales from 1st DEC.csv`
-     - `LW & Store Onhand - With Case Quantity Sources.xlsx`
+     - `sales.csv`
+     - `sales.xlsx`
      - `All products.xlsx`
    - Merges all sales datasets into one unified frame.
 
