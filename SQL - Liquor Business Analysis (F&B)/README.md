@@ -40,7 +40,7 @@ It’s built around operational data from a multi-store liquor group, featuring 
 
 ## Business Insights Generated
 - Revenue & profit trends by outlet, product, and category.
-  - Showcased by: [Monthly Sales by Outlet](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/1%20MONTHLY%20SALES%20BY%20OUTLET.csv), [Weekly Trend by Outlet](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/10%20WEEKLY%20TREND%20BY%20OUTLET.csv), [Category Performance](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/3%20CATEGORY%20PERFORMANCE.csv), [Product Profitability League](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/9%20PRODUCT%20PROFITABILITY%20LEAGUE%20(YTD).csv)
+  - Showcased by: [Monthly Sales by Outlet](./1%20MONTHLY%20SALES%20BY%20OUTLET.csv), [Weekly Trend by Outlet](./10%20WEEKLY%20TREND%20BY%20OUTLET.csv), [Category Performance](./3%20CATEGORY%20PERFORMANCE.csv), [Product Profitability League](./9%20PRODUCT%20PROFITABILITY%20LEAGUE%20(YTD).csv)
   - Recommendation:
 
 | Focus Area                  | Evidence                                             | Recommendation                                                                          | Expected Impact                      |
@@ -53,7 +53,7 @@ It’s built around operational data from a multi-store liquor group, featuring 
 | **Forecasting**             | Weekly trend (file #10) shows stable demand pattern  | Feed last 8 weeks’ weekly data into rolling forecast (SQL query #17).                   | Improved replenishment accuracy      |
 
 - Supplier lead times and purchase fill-rate KPIs.
-  - Showcased by: [Supplier Lead Time and Receipt Fill Rate](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/11%20SUPPLIER%20LEAD%20TIME%20AND%20RECEIPT%20FILL%20RATE.csv), [Fill Rate by PO](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/12%20FILL%20RATE%20BY%20PURCHASE%20ORDER.csv)
+  - Showcased by: [Supplier Lead Time and Receipt Fill Rate](./11%20SUPPLIER%20LEAD%20TIME%20AND%20RECEIPT%20FILL%20RATE.csv), [Fill Rate by PO](./12%20FILL%20RATE%20BY%20PURCHASE%20ORDER.csv)
   - Recommendation:
 
 | Focus Area                              | Evidence (Actual Metrics)                                | Recommended Action                                                              | Expected Impact                   |
@@ -64,7 +64,7 @@ It’s built around operational data from a multi-store liquor group, featuring 
 | **PO Efficiency**                       | Avg freight 1.8 % of cost, payment fees 0.9 %.           | Bundle POs monthly to reduce logistics and payment transaction overhead.        | −2 % COGS savings.                |
 
 - Churn detection for wholesale and on-premise customers.
-  - Showcased by: [Customer Churn Candidates](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/6%20CUSTOMER%20CHURN%20CANDIDATES.csv), [Customers with Outstanding Balances](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/5%20CUSTOMERS%20WITH%20OUTSTANDING%20BALANCES.csv)
+  - Showcased by: [Customer Churn Candidates](./6%20CUSTOMER%20CHURN%20CANDIDATES.csv), [Customers with Outstanding Balances](./5%20CUSTOMERS%20WITH%20OUTSTANDING%20BALANCES.csv)
   - Recommendation:
 
 | Focus Area                 | Evidence (Actual Metrics)                          | Recommended Action                                           | Expected Impact                |
@@ -75,7 +75,7 @@ It’s built around operational data from a multi-store liquor group, featuring 
 | **Credit-Linked Churn**    | 14 % churners have outstanding balances.           | Offer structured payment plans tied to reactivation.         | Recover $25 k+ in receivables. |
 
 - Margin leakage and low-profit SKU identification.
-  - Showcased by: [Margin Leakage Detection](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/16%20MARGIN%20LEAKAGE%20DETECTION.csv)
+  - Showcased by: [Margin Leakage Detection](./16%20MARGIN%20LEAKAGE%20DETECTION.csv)
   - Recommendation:
 
 | Focus Area                         | Evidence (Actual Metrics)                          | Recommended Action                                        | Expected Impact            |
@@ -86,7 +86,7 @@ It’s built around operational data from a multi-store liquor group, featuring 
 | **Deadweight SKUs (< $2 k sales)** | 140 SKUs < 1 % of sales but > 5 % inventory lines. | Phase-out and reallocate shelf to top quartile products.  | Inventory turn ↑ 15 %.     |
 
 - Pricing consistency and branch-level spread analysis.
-  - Showcased by: [Price Consistency Across Branches](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/7%20PRICE%20CONSISTENCY%20ACROSS%20BRANCHES.csv), [Cheapest and Most Expensive Branch per SKU](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/8%20CHEAPEST%20AND%20MOST%20EXPENSIVE%20BRANCH%20PER%20SKU.csv), [Price Attribute Comparison Across Branches](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/15%20PRICE%20ATTRIBUTE%20COMPARISON%20ACROSS%20BRANCHES.csv)
+  - Showcased by: [Price Consistency Across Branches](./7%20PRICE%20CONSISTENCY%20ACROSS%20BRANCHES.csv), [Cheapest and Most Expensive Branch per SKU](./8%20CHEAPEST%20AND%20MOST%20EXPENSIVE%20BRANCH%20PER%20SKU.csv), [Price Attribute Comparison Across Branches](./15%20PRICE%20ATTRIBUTE%20COMPARISON%20ACROSS%20BRANCHES.csv)
   - Recommendation:
 
 | Focus Area               | Evidence (Actual Metrics)                           | Recommended Action                                        | Expected Impact                         |
@@ -97,7 +97,7 @@ It’s built around operational data from a multi-store liquor group, featuring 
 | **High-Cost Locations**  | 2 branches operate > 5 % rent load → higher prices. | Use targeted “premium-zone” labelling to justify pricing. | Customer trust ↑ and margin maintained. |
 
 - Rolling sales metrics for forecasting and planning.
-  - Showcased by: [Rolling Sales Metrics for Forecasting and Planning](https://github.com/nhat1914/Data_Analysis_Project/blob/main/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B)/17%20ROLLING%2028-DAY%20AVERAGE%20SALES%20BY%20SKU.csv)
+  - Showcased by: [Rolling Sales Metrics for Forecasting and Planning](./17%20ROLLING%2028-DAY%20AVERAGE%20SALES%20BY%20SKU.csv)
   - Recommendation: 
 
 | Focus Area             | Evidence (Actual Metrics)                            | Recommended Action                                    | Expected Impact                 |

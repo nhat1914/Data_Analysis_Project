@@ -9,15 +9,15 @@ Each project demonstrates hands-on experience in building real-world analytical 
 
 A series of professional Power BI dashboards built to visualise and interpret operational performance, sales insights, and customer behaviour across industries.
 
-### 🔹 [Power BI – Liquor Business Analysis](https://github.com/nhat1914/Data_Analysis_Project/tree/30842b841af56bfa8d04cf9e9cbd05a550a1e081/Power%20BI%20-%20Liquor%20Business%20Analysis)
+### 🔹 [Power BI – Liquor Business Analysis]((./Power%20BI%20-%20Liquor%20Business%20Analysis))
 - Comprehensive performance dashboard for multi-store liquor retail operations.  
 - Metrics include revenue trends, store ranking, supplier performance, and category contribution.  
 
-### 🔹 [Power BI – Pizza Business Analysis](https://github.com/nhat1914/Data_Analysis_Project/tree/de3de5d439d03735cae332d3fbcea81838abb7ff/Power%20BI%20-%20Pizza%20Business%20Analysis)
+### 🔹 [Power BI – Pizza Business Analysis](./Power%20BI%20-%20Pizza%20Business%20Analysis)
 - Visual dashboard for a fast-food franchise analysing order trends, top products, and customer patterns.  
 - Includes profit margins, delivery time KPIs, and regional comparison visuals.  
 
-### 🔹 [Power BI – Wisabi Bank Analysis](https://github.com/nhat1914/Data_Analysis_Project/tree/de3de5d439d03735cae332d3fbcea81838abb7ff/Power%20BI%20-%20Wisabi%20Bank%20Analysis)
+### 🔹 [Power BI – Wisabi Bank Analysis](./Power%20BI%20-%20Wisabi%20Bank%20Analysis)
 - Financial and customer analytics report for a simulated banking dataset.  
 - KPIs include deposit growth, loan performance, and customer churn trends.  
 
@@ -27,12 +27,12 @@ A series of professional Power BI dashboards built to visualise and interpret op
 
 SQL-based analytical models for data warehousing, reporting, and business performance analysis.
 
-### 🔹 [SQL – Liquor Business Analysis (F&B)](https://github.com/nhat1914/Data_Analysis_Project/tree/30842b841af56bfa8d04cf9e9cbd05a550a1e081/SQL%20-%20Liquor%20Business%20Analysis%20(F%26B))
+### 🔹 [SQL – Liquor Business Analysis (F&B)](./SQL%20-%20Liquor%20Business%20Analysis%20(F%26B))
 - End-to-end data model for retail liquor operations.  
 - Features sales, purchase orders, stock transfer, and supplier performance queries.  
 - Demonstrates ETL, view creation, and KPI logic using T-SQL.  
 
-### 🔹 [SQL – Stationary Business Analysis (Office Consumables)](https://github.com/nhat1914/Data_Analysis_Project/tree/30842b841af56bfa8d04cf9e9cbd05a550a1e081/SQL%20-%20Stationary%20Business%20Analysis%20Office%20Consumables)
+### 🔹 [SQL – Stationary Business Analysis (Office Consumables)](./SQL%20-%20Stationary%20Business%20Analysis%20Office%20Consumables)
 - SQL schema for analysing inventory, procurement, and category-level performance in office supply chains.  
 - Includes advanced queries for reorder logic, seasonal trend detection, and supplier efficiency tracking.  
 
@@ -42,11 +42,11 @@ SQL-based analytical models for data warehousing, reporting, and business perfor
 
 Automation scripts designed to enhance workflow efficiency and data consistency across business systems.
 
-### 🔹 [Python – Automation Data Updating](https://github.com/nhat1914/Data_Analysis_Project/tree/30842b841af56bfa8d04cf9e9cbd05a550a1e081/Python%20-%20Automation%20Data%20Updating)
+### 🔹 [Python – Automation Data Updating](./Python%20-%20Automation%20Data%20Updating)
 - Email-driven automation system for extracting, merging, and appending daily reports.  
 - Automatically updates sales, stock-on-hand, and product master datasets.  
 
-### 🔹 [Python – Business Review Analysis](https://github.com/nhat1914/Data_Analysis_Project/tree/30842b841af56bfa8d04cf9e9cbd05a550a1e081/Python%20-%20Business%20Review%20Analysis)
+### 🔹 [Python – Business Review Analysis](./Python%20-%20Business%20Review%20Analysis)
 - Automates collection and analysis of customer feedback.  
 - Uses natural language processing (NLP) to classify and summarise sentiments from business reviews.
 
@@ -56,12 +56,12 @@ Automation scripts designed to enhance workflow efficiency and data consistency 
 
 These projects focus on AI and predictive modeling, combining computer vision, forecasting, and time-series analysis to solve business challenges.
 
-### 🔹 [Deep Learning for Sentiment Image Classification](https://github.com/nhat1914/Data_Analysis_Project/tree/30842b841af56bfa8d04cf9e9cbd05a550a1e081/Machine%20Learning%20and%20Deep%20Learning%20Projects/Deep%20Learning%20for%20Sentiment%20Image%20Classification)
+### 🔹 [Deep Learning for Sentiment Image Classification](./Machine%20Learning%20and%20Deep%20Learning%20Projects/Deep%20Learning%20for%20Sentiment%20Image%20Classification)
 - **Goal:** Classify facial emotions (Happy, Sad, Anger, Fear, Pain, Disgust) using custom CNN architectures.  
 - **Highlights:** Data augmentation, model capacity tuning, cross-domain testing, and few-shot adaptation.  
 - **Tech Stack:** PyTorch, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn.  
 
-### 🔹 [Multi-Model Product Demand Forecasting](https://github.com/nhat1914/Data_Analysis_Project/tree/30842b841af56bfa8d04cf9e9cbd05a550a1e081/Machine%20Learning%20and%20Deep%20Learning%20Projects/Predict%20Product%20Demand)
+### 🔹 [Multi-Model Product Demand Forecasting](./Machine%20Learning%20and%20Deep%20Learning%20Projects/Predict%20Product%20Demand)
 - **Goal:** Automate weekly product-level demand forecasting using **Prophet** and **SARIMAX**.  
 - **Highlights:** Time-series cleaning, hybrid modeling, MAE/MAPE comparison, and export-ready results.  
 - **Tech Stack:** Python, Pandas, Prophet, Statsmodels, openpyxl, scikit-learn.  
