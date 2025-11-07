@@ -166,7 +166,7 @@ SELECTCOLUMNS (
 
 ### **Page 1 — Executive Overview**
 
-<img width="2051" height="1156" alt="image" src="https://github.com/user-attachments/assets/25b61105-03ac-42df-9f55-bd29643755be" />
+<img width="2061" height="1165" alt="image" src="https://github.com/user-attachments/assets/62d82b5a-4923-4332-a4a6-1b01a087c668" />
 
 - KPI tiles (Revenue, Cases, Profit, GP%) and **Weekly Revenue vs Profit** trend.  
 - **Category Performance** table (Revenue, Profit, AVG GP%) and **Outlet Performance** table.  
