@@ -7,7 +7,7 @@ This Power BI project analyzes Wisabi Bank’s 2022 ATM transactions to uncover 
 
 **Timeframe:** January–December 2022  
 **Core KPIs (from the report):**
-- **₦38,555,885,000** total amount processed
+- **$38,555,885,000** total amount processed
 - **2,143,838** transactions
 - **8,819** unique customers
 - **12.9%** average ATM utilization rate
