@@ -87,7 +87,7 @@ The report ships with **two main pages** and drill-throughs:
 
 ### 1) Overview
 
-<img width="1858" height="1153" alt="image" src="https://github.com/user-attachments/assets/c309af94-9091-44c8-bc6a-78f6a67d78bd" />
+<img width="1893" height="1173" alt="image" src="https://github.com/user-attachments/assets/02100219-8d26-4883-88a2-1bd3e02016af" />
 
 - **KPI tiles:** Total Amount, Total Transactions, Unique Customers, Utilization Rate
 - **Trend visuals:** Monthly transaction count & amount; daily intraday curve by state
@@ -102,7 +102,7 @@ The report ships with **two main pages** and drill-throughs:
 
 ### 2) Demography
 
-<img width="1740" height="1142" alt="image" src="https://github.com/user-attachments/assets/ae09d047-e46e-4e14-bf23-75afc1af08c4" />
+<img width="1791" height="1173" alt="image" src="https://github.com/user-attachments/assets/a03ad10e-ebcc-457c-82b4-3a53ef194096" />
 
 - **Composition:** Transaction distribution by type
 - **Segments:** Count by age group × type; frequency by age group
