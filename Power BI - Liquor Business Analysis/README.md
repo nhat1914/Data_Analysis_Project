@@ -173,7 +173,7 @@ SELECTCOLUMNS (
 - **Holding Value** summary.
 - **Revenue per Category** by week.  
 - **Total Cases Sold Trend per Product** drill.
-- 
+
 **Operational cues**
 - Local & Spirits drive revenue scale; RTDs show higher GP%.  
 - LW Warehouse dominates revenue; EWT/LARA post GP% > 23%.
@@ -186,7 +186,7 @@ SELECTCOLUMNS (
 - **Product Purchased per Outlet** matrix (top SKUs; e.g., Carlton Dry/Draught).  
 - **Cases Purchased per Outlet** weekly timeline to spot spikes and restock cycles.
 - **Product Performance**: Revenue, Cases, Profit, Orders, Case on hand, **Forecast Next 2 Weeks**, Holding Value.
-- 
+
 **Use it to**
 - Align inbound with outbound velocity; audit anomalies; confirm promo readiness.
 
