@@ -164,31 +164,35 @@ SELECTCOLUMNS (
 
 ## Dashboard Overview
 
-### **Page 1 — Executive Overview**
+### **Page 1 — Sales Performance**
 
-<img width="2061" height="1165" alt="image" src="https://github.com/user-attachments/assets/62d82b5a-4923-4332-a4a6-1b01a087c668" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/8d833acd-7ff7-40b8-82d1-f24a539144ab" />
 
 - KPI tiles (Revenue, Cases, Profit, GP%) and **Weekly Revenue vs Profit** trend.  
 - **Category Performance** table (Revenue, Profit, AVG GP%) and **Outlet Performance** table.  
-- **Holding Value & Stock Loss** summary.
-
+- **Holding Value** summary.
+- **Revenue per Category** by week.  
+- **Total Cases Sold Trend per Product** drill.
+- 
 **Operational cues**
 - Local & Spirits drive revenue scale; RTDs show higher GP%.  
 - LW Warehouse dominates revenue; EWT/LARA post GP% > 23%.
+- Lunch and late‑afternoon trading are densest; price elasticity stable within core ranges.
 
-### **Page 2 — Purchasing by Outlet**
+### **Page 2 — Product Performance**
 
-<img width="2050" height="1159" alt="image" src="https://github.com/user-attachments/assets/1952a7f5-6fb4-4ee8-bea7-412a7493f830" />
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/3851ed5d-03de-402f-b2a0-7838b30d4fc0" />
 
 - **Product Purchased per Outlet** matrix (top SKUs; e.g., Carlton Dry/Draught).  
 - **Cases Purchased per Outlet** weekly timeline to spot spikes and restock cycles.
-
+- **Product Performance**: Revenue, Cases, Profit, Orders, Case on hand, **Forecast Next 2 Weeks**, Holding Value.
+- 
 **Use it to**
 - Align inbound with outbound velocity; audit anomalies; confirm promo readiness.
 
 ### **Page 3 — Supplier Performance**
 
-<img width="2053" height="1158" alt="image" src="https://github.com/user-attachments/assets/ea235c38-35ff-4927-9316-2ac6e3f670a5" />
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/c41fda18-3c7a-4f10-b677-1b57ae973a5c" />
 
 - **Supplier Breakdown**: PO$, PO Cases, Total Revenue, Profit, Case on hand, Latest Order Date.  
 - **Supplier Summary**: purchase trend by week and **Times Ordered** leaderboard.
@@ -196,9 +200,9 @@ SELECTCOLUMNS (
 **Signals**
 - HB CUB and Tru Cellars are core; Pernod Ricard tops PO$ for premium spirits.
 
-### **Page 4 — Customer & Channel**
+### **Page 4 — Customer Performance**
 
-<img width="2056" height="1161" alt="image" src="https://github.com/user-attachments/assets/3121398e-e1a0-4a4f-8ab7-1b3b9fc2bdb3" />
+<img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/b0c144c1-3dd2-4321-a1ed-75027f728cdb" />
 
 - **Customer Purchasing Power** (weekly revenue by account).  
 - **Revenue by Customer Group** (W2W, W2R, Retail, Restaurant, etc).  
@@ -206,49 +210,6 @@ SELECTCOLUMNS (
 
 **Actions**
 - Prioritise top accounts; tailor category bundles by customer mix; watch churn dips.
-
-### **Page 5 — Revenue Mix & Product Performance**
-
-<img width="2059" height="1161" alt="image" src="https://github.com/user-attachments/assets/84ae322d-b532-4fa4-88c6-40dd82b89992" />
-
-- **Revenue per Category** by week.  
-- **Total Cases Sold Trend per Product** drill.  
-- **Product Performance**: Revenue, Cases, Profit, Orders, Case on hand, **Forecast Next 2 Weeks**, Holding Value.
-
-**Usage**
-- Forecasting seed table; replenishment and credit control (case on hand vs forecast).
-
-### **Page 6 — Basket & Daypart Dynamics**
-
-<img width="2059" height="1161" alt="image" src="https://github.com/user-attachments/assets/48731a39-fe15-4a06-a014-79884fa689f8" />
-
-- **Basket Details**: Avg Case/Order, Avg Order Value, median/min/max cases per order.  
-- **Selling Order by Weekday & Hour** heatmap.  
-- **Product Selling Frequency** and **Price Elasticity** (Cases vs Price/Case).
-
-**Takeaways**
-- Lunch and late‑afternoon trading are densest; price elasticity stable within core ranges.
-
-### **Page 7 — Slow Movers & Risk**
-
-<img width="2055" height="1160" alt="image" src="https://github.com/user-attachments/assets/d636ae85-da78-4e03-b15e-3df70ae91743" />
-
-- **Slow Moving Product** panel with last received/sold dates and status.  
-- **Total Slow Movers per Store** ranking.
-
-**Governance**
-- Trigger markdowns/transfers; reduce re‑orders; set par resets by outlet/category.
-
-### **Page 8 — Transfers, New Products & Cost Changes**
-
-<img width="2058" height="1160" alt="image" src="https://github.com/user-attachments/assets/a245f8c2-f060-450e-9526-0528511e0b80" />
-
-- **LW Transfers OUT/IN** timelines across outlets (balancing stock).  
-- **New Product Performance (≤30 days)**: Sales Orders, Cases/Order, Revenue, Profit.  
-- **LW Cost Change** tracker (daily cost movements by SKU).
-
-**Why it matters**
-- Validate launch traction; guard GP% during cost shifts; time transfers ahead of peaks.
 
 ## Key Insights
 - **$13.3M** revenue with **~9.8% GP%**; **RTD/Spirits** higher margin; **Local Beer** largest revenue share.  
