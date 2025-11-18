@@ -13,7 +13,7 @@ This model integrates **Sales**, **Purchasing**, **Inventory**, **Transfers**, *
 
 The report uses a star-schema model, Power Query for transformation, and DAX for measures and calculation tables. It is presented in an **8-page dashboard** layout with key insights and usage notes.
 
-[Dashboard Interactive Link](https://app.powerbi.com/view?r=eyJrIjoiYWUwNDllZjAtNmY5Ny00ODNiLThjYzQtNmM3OWRlYWU2OGRlIiwidCI6IjYxYTI3ZWZiLTM2ZjMtNDY1Zi04NWRmLWUyMWFlZGMxM2MwNCJ9)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYWUwNDllZjAtNmY5Ny00ODNiLThjYzQtNmM3OWRlYWU2OGRlIiwidCI6IjYxYTI3ZWZiLTM2ZjMtNDY1Zi04NWRmLWUyMWFlZGMxM2MwNCJ9" target="_blank">Dashboard Interactive Link</a>
 
 **Primary KPIs (1 Jan 2025 – 26 Oct 2025):**
 - **$46,941,719.47** Revenue
