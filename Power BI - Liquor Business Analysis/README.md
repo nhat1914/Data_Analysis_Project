@@ -73,6 +73,8 @@ These transformations produce model-ready fact tables and conformed dimensions f
 ## Data Modelling
 The model follows a **star schema** for performance and clarity.
 
+<img width="1920" height="1079" alt="image" src="Liquor Business Data Modelling and Table Relationship.png" />
+
 ### Fact tables
 - `Sales`
   - Revenue, Cost, Profit, GP%
@@ -115,7 +117,9 @@ Relationships are mostly one-to-many (dimensions → facts) with `Date`, `Outlet
 
 ### **Page 1 — Sales Performance**
 
-<img width="1920" height="1079" alt="image" src="https://github....user-attachments/assets/8d833acd-7ff7-40b8-82d1-f24a539144ab" />
+<img width="1920" height="1079" alt="image" src="Sales Performance Snapshot.png" />
+
+
 
 - **Monthly Revenue & Profit** chart showing revenue and profit per month from Jan–Oct 2025.  
 - **Selling Order Weekday & Hour** heatmap highlighting trading peaks by day of week and hour of day (late morning–evening, especially Fri–Sun).  
@@ -131,7 +135,7 @@ Relationships are mostly one-to-many (dimensions → facts) with `Date`, `Outlet
 
 ### **Page 2 — Product, Basket & Customer Group Performance**
 
-<img width="1917" height="1079" alt="image" src="https://github....user-attachments/assets/3851ed5d-03de-402f-b2a0-7838b30d4fc0" />
+<img width="1917" height="1079" alt="image" src="Product Performance Snapshot.png" />
 
 - **Revenue per Category by Month** to show how Beers, Spirits, RTDs and Wine contribute across the year and how mix shifts over time.  
 - **Basket Details Table** for top products, including number of orders, total revenue, total cases, **average cases per order** and **average order value** when each product is in the basket.  
